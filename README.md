@@ -12,6 +12,7 @@ Here is the table of links:
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascal_triangle.ccp) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) |
-| 0599  | minimum index sum of two lists		                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) |
+| 0599  | minimum index sum of two lists		                                    | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) |
+| 0704  | binary search n                                                           | [here](./C\&C++/0704_binary_search.cpp) |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) |
 
