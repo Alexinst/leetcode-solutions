@@ -17,4 +17,5 @@ Here is the table of links:
 | 0599  | minimum index sum of two lists		                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) |
+| 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) |
 
