@@ -48,9 +48,5 @@ vector<int> Solution::plusOne(vector<int>& digits)
     if (i == -1)
         digits.insert(digits.begin(), 1);
 
-    vector<int>::iterator iter = digits.begin();
-    for (i=0; iter<digits.end(); i++)
-        cout << *iter++ << '\t';
-
     return digits;
 }

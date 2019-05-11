@@ -21,14 +21,11 @@
 	下标从0开始，到列表的长度减1。
 	两个列表都没有重复的元素。
 */
-#include "pch.h"
 #include <iostream>
 #include <vector>
 #include <unordered_map>
 #include <algorithm>
 
-using std::cout;
-using std::endl;
 using std::vector;
 using std::string;
 

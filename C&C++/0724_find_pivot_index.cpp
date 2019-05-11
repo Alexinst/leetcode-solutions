@@ -34,7 +34,6 @@ public:
         vector<int> sums;
         sums.push_back(nums[0]);
 
-        cout << sums[0] << '\t';
         for (i=1; i < array_len; i++)
             sums.push_back(sums[i-1] + nums[i]);
 

@@ -76,3 +76,4 @@ public:
     int search(vector<int>& nums, int target) {
         return bin_search(nums, target, 0, nums.size()-1);
     }
+};
