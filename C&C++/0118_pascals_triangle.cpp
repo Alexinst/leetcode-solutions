@@ -25,7 +25,6 @@ public:
 	vector<vector<int>> generate(int numRows);
 };
 
-
 vector<vector<int>> Solution::generate(int numRows)
 {
 	vector<vector<int>> yHTriangle;
