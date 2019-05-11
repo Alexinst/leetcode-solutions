@@ -13,6 +13,7 @@ Here is the table of links:
 | 0016  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascal_triangle.ccp) |
+| 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_polish_notation.ccp) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) |
 | 0599  | minimum index sum of two lists		                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) |
