@@ -2,3 +2,4 @@
 .vscode/
 
 CMakeLists.txt
+cmake-build-debug

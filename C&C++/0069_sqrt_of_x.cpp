@@ -56,6 +56,5 @@ public:
         }
         return floor(cur);
     }
-
 };
 
