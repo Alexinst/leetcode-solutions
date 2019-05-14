@@ -91,14 +91,49 @@ public:
 	}
 };
 
+
 class Solution1 {
+public:
+	int search(vector<int>& nums, int target)
+	{
+		return binarySearch(nums, 0, nums.size() - 1, target);
+	}
+
+	int binarySearch(vector<int>& nums, int left, int right, int target)
+	{
+		if (left > right)
+			return -1;
+
+		int middle = left + (right - left) / 2;
+		if (nums[middle] == target)
+			return middle;
+
+		if (nums[middle] < nums[right])             // 旋转点不在右段
+		{
+			if (nums[middle] < target && target <= nums[right])
+				return binarySearch(nums, middle + 1, right, target);
+			else
+				return binarySearch(nums, left, middle - 1, target);
+		}
+		else                                        // 旋转点在右段
+		{
+			if (nums[left] <= target && target < nums[middle])
+				return binarySearch(nums, left, middle - 1, target);
+			else
+				return binarySearch(nums, middle + 1, right, target);
+		}
+	}
+};
+
+class Solution2 {
 public:
 	int search(vector<int>& nums, int target) {
 		int len = nums.size();
 		int lo = 0;
 		int hi = len - 1;
 		while (lo <= hi) {
-			int mid = lo + ((hi - lo) >> 1);
+			// int mid = lo + ((hi - lo) >> 1);
+			int mid = lo + (hi - lo) / 2;
 			if (nums[mid] == target)
 				return mid;
 			if (nums[lo] <= nums[mid]) {
