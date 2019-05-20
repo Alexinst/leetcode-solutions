@@ -8,6 +8,7 @@
 	因为 nums[0] + nums[1] = 2 + 7 = 9
 	所以返回 [0, 1]
 */
+import java.util.HashMap;
 
 class MySolution {
     public int[] twoSum(int[] nums, int target) {
