@@ -12,6 +12,7 @@ Here is the table of links:
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
+| 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
