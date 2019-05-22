@@ -6,7 +6,7 @@ Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
 | ----- | --------------------------------------------------------------------------| --- | ---- |
-| 0001  | two sum                                                                   | [here](./C\&C++/0001_two_sum.cpp) | [here](./Java/0001_two_sum.cpp) |
+| 0001  | two sum                                                                   | [here](./C\&C++/0001_two_sum.cpp) | [here](./Java/0001_two_sum.java) |
 | 0003  | longest substring without repeating characters                            | [here](./C\&C++/0003_longest_substring_without_repeating_characters.cpp) | - |
 | 0007  | reverse integer                                                           | [here](./C\&C++/0007_reverse_integer.cpp) | - |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |

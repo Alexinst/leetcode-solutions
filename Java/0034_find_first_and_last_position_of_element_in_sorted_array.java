@@ -26,13 +26,13 @@ class MySolution {
             int mid = left + (right - left) / 2;
             if (nums[mid] == target)
             {
-                int start = mid, end = mid;
-                while (start > 0 && nums[start-1] == target)
-                    start--;
-                while (end < nums.length-1 && nums[end+1] == target)
-                    end++;
-                res[0] = start;
-                res[1] = end;
+                int first = mid, last = mid;
+                while (first > 0 && nums[first-1] == target)
+                    first--;
+                while (last < nums.length-1 && nums[last+1] == target)
+                    last++;
+                res[0] = first;
+                res[1] = last;
                 break;
             }
             else if (nums[mid] < target)
