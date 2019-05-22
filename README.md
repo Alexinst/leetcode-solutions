@@ -16,8 +16,8 @@ Here is the table of links:
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
-| 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascal_triangle.ccp) | - |
-| 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.ccp) | - |
+| 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
+| 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
