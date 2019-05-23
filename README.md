@@ -1,6 +1,6 @@
 # My code of LeetCode exercises
 
-The main programming languages will be Java, while C++ is going to be suspended.
+The main programming languages will be Java, while C++ is going to be suspended. (20/1041)
 
 Here is the table of links:
 
