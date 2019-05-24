@@ -16,6 +16,7 @@ Here is the table of links:
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
+| 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
