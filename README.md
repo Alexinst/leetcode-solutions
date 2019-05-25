@@ -1,6 +1,6 @@
 # My code of LeetCode exercises
 
-The main programming languages will be Java, while C++ is going to be suspended. (22/1041)
+The main programming languages will be Java, while C++ is going to be suspended. (23/1041)
 
 Here is the table of links:
 
@@ -19,6 +19,7 @@ Here is the table of links:
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
+| 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
