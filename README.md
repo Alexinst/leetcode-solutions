@@ -1,4 +1,4 @@
-# My code of LeetCode exercises
+# My solutions of LeetCode exercises
 
 The main programming languages will be Java, while C++ is going to be suspended. (24/1041)
 
