@@ -1,6 +1,6 @@
 # My code of LeetCode exercises
 
-The main programming languages will be Java, while C++ is going to be suspended. (23/1041)
+The main programming languages will be Java, while C++ is going to be suspended. (24/1041)
 
 Here is the table of links:
 
@@ -17,6 +17,7 @@ Here is the table of links:
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
+| 0102  | level order traversal of a binary tree                                    | - | [here](./Java/0102_binary_tree_level_order_traversal.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
