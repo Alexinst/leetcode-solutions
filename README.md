@@ -2,6 +2,10 @@
 
 The main programming languages will be Java, while C++ is going to be suspended. (25/1041)
 
+## Explain
+The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
+
+## Table
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
