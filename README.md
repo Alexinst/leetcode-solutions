@@ -1,6 +1,6 @@
 # My solutions of LeetCode exercises
 
-The main programming languages will be Java, while C++ is going to be suspended. (25/1041)
+The main programming languages will be Java, while C++ is going to be suspended. (26/1041)
 
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
@@ -23,6 +23,7 @@ Here is the table of links:
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0102  | level order traversal of a binary tree                                    | - | [here](./Java/0102_binary_tree_level_order_traversal.java) |
 | 0104  | maximum depth of a binary tree                                            | - | [here](./Java/0104_maximum_depth_of_binary_tree.java) |
+| 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
