@@ -2,12 +2,12 @@
 
 [简体中文](./README.md) | English
 
-The main programming languages will be Java, while C++ is going to be suspended. (29/1054)
+The main programming languages will be Java, while C++ is going to be suspended. (30/1054)
 
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Table
+## Links
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -38,6 +38,7 @@ Here is the table of links:
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
+| 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) | - |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) | - |

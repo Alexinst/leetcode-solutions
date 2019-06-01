@@ -2,7 +2,7 @@
 
 简体中文 | [English](./README.en.md) 
 
-目前的主语句已转为Java，C++基本上已经是过去式了。(29/1054)
+目前的主语句已转为Java，C++基本上已经是过去式了。(30/1054)
 
 ## 类名解释
 
@@ -37,10 +37,11 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0145 | 二叉树的后序遍历                           |                              -                               |   [here](./Java/0145_binary_tree_postorder_traversal.java)   |
 | 0150 | 逆波兰表达式求值                           |  [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp)  |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
-| 0173 | 二叉搜索树迭代器                           |                              -                               |   [here](./Java/0173_binary_search_tree_iterator.java)   |
+| 0173 | 二叉搜索树迭代器                           |                              -                               |     [here](./Java/0173_binary_search_tree_iterator.java)     |
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
 | 0367 | 有效的完全平方数                           |                              -                               |        [here](./Java/0367_valid_perfect_square.java)         |
 | 0498 | 对角线遍历                                 |         [here](./C\&C++/0498_diagonal_traverse.cpp)          |                              -                               |
+| 0589 | N叉树前序遍历                              |                              -                               |    [here](./Java/0589_N-ary_tree_preorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
 | 0704 | 二分查找                                   |           [here](./C\&C++/0704_binary_search.cpp)            |                              -                               |
 | 0724 | 寻找数组的中心索引                         |          [here](./C\&C++/0724_find_pivot_index.cpp)          |                              -                               |
