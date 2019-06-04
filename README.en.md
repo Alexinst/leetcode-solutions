@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (32/1054)
+## Links (33/1054)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -42,6 +42,7 @@ Here is the table of links:
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
+| 0700  | search in a binary search tree                                        | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) | - |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) | - |
 | 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) | - |
