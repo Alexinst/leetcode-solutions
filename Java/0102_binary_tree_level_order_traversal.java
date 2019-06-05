@@ -57,11 +57,7 @@ class Solution1 {
     private List<List<Integer>> result = new ArrayList<>();
 
     public List<List<Integer>> levelOrder(TreeNode root) {
-        if (root == null)
-            return new ArrayList<>();
-
         levelHandler(root, 0);
-
         return result;
     }
 
