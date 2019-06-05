@@ -46,6 +46,7 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
 | 0700 | 二叉搜索树的搜索                           |                              -                               |   [here](./Java/0700_search_in_a_binary_search_tree.java)    |
+| 0701 | 二叉搜索树的插入操作                           |                              -                               |   [here](./Java/0701_insert_in_a_binary_search_tree.java)    |
 | 0704 | 二分查找                                   |           [here](./C\&C++/0704_binary_search.cpp)            |                              -                               |
 | 0724 | 寻找数组的中心索引                         |          [here](./C\&C++/0724_find_pivot_index.cpp)          |                              -                               |
 | 0739 | 每日温度                                   |         [here](./C\&C++/0739_daily_temperatures.cpp)         |                              -                               |
