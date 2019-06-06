@@ -73,3 +73,45 @@ class Solution {
             exchange = node;
     }
 }
+
+class Solution {
+    private List<TreeNode> list = new ArrayList<>();
+    private int indexKey = -1;
+    private Stack<TreeNode> stack = new Stack<>();
+    
+    public TreeNode deleteNode(TreeNode root, int key) {
+        sort(root, key);
+        if (indexKey == 0)
+            return root.right;
+        else if (indexKey == list.size() - 1)
+            return root.left;
+        else {
+            TreeNode nodeKey = list.get(indexKey);
+            if (nodeKey.left == null && nodeKey.right == null)
+                setNull(nodeKey);
+            else if (nodeKey.left == null)
+                repAWithB(nodeKey, nodeKey.right);
+            else if (nodeKey.right == null)
+                repAWithB(nodeKey, nodeKey.left);
+            else {
+                
+            }
+        }
+    }
+    
+    private void sort(TreeNode root, int key) {
+        
+    }
+    
+    private void setNull(TreeNode node)
+    {
+        
+    }
+    
+    private void repAWithB(TreeNode a, TreeNode b)
+    {
+        a.val = b.val;
+        a.left = b.left;
+        a.right = b.right;
+    }
+}
