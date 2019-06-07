@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (34/1054)
+## Links (35/1054)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -38,6 +38,7 @@ Here is the table of links:
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
+| 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst*.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
