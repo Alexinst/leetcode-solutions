@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (35/1054)
+## Links (36/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -35,6 +35,7 @@ Here is the table of links:
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
 | 0173  | the iterator of a binary search tree                                      | - | [here](./Java/0173_binary_search_tree_iterator.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
+| 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
