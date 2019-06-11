@@ -12,13 +12,14 @@
 
 PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码！
 
-## 链接（41/1069）
+## 链接（42/1069）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 0001 | 两数之和                                   |              [here](./C\&C++/0001_two_sum.cpp)               |               [here](./Java/0001_two_sum.java)               |
 | 0002 | 两数相加                                   |                              -                               | [here](./Java/0002_add_two_numbers.java) |
 | 0003 | 无重复字符的最长子串                       | [here](./C\&C++/0003_longest_substring_without_repeating_characters.cpp) |                              -                               |
+| 0005 | 最长回文子串                               |                              -                               | [here](./Java/0005_longest_palindromic_substring.java) |
 | 0007 | 整数反转                                   |          [here](./C\&C++/0007_reverse_integer.cpp)           |                              -                               |
 | 0019 | 删除链表的倒数第N个节点                    |   [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)   |                              -                               |
 | 0020 | 有效的括号                                 |         [here](./C\&C++/0020_valid_parentheses.cpp)          |                              -                               |
