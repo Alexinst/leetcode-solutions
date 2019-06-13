@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (43/1069)
+## Links (44/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -18,6 +18,7 @@ Here is the table of links:
 | 0005  | longest palindromic substring                                             | - | [here](./Java/0005_longest_palindromic_substring.java) |
 | 0007  | reverse integer                                                           | [here](./C\&C++/0007_reverse_integer.cpp) | - |
 | 0008  | string to integer                                                         | - | [here](./Java/0008_string_to_integer.java) |
+| 0009  | palindrome number                                                         | - | [here](./Java/0009_palindrome_number.java) |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
