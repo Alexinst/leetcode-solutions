@@ -18,9 +18,9 @@
 	你能不将整数转为字符串来解决这个问题吗？
 */
 
-class MySolution {
+class MySolution1 {
     public boolean isPalindrome(int x) {
-		if (x < 0) return false;
+	if (x < 0) return false;
 
         Stack<Character> stack = new Stack<>();
         String xStr = Integer.toString(x);
@@ -37,6 +37,24 @@ class MySolution {
                 continue;
             else
                 return false;
+        }
+        return true;
+    }
+}
+
+class MySolution2 {
+    public boolean isPalindrome(int x) {
+        if (x < 0) return false;
+
+        String strX = Integer.toString(x);
+        int len = strX.length();
+        int halfOfLen = len / 2;
+
+        for (int i = 0; i < halfOfLen ; i++) {
+            if (strX.charAt(i) != strX.charAt(len - 1 - i))
+                return false;
+            else
+                continue;
         }
         return true;
     }
