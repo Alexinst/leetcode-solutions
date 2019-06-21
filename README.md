@@ -24,6 +24,7 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0008 | 字符串转换整数 (atoi)                      |                              -                               | [here](./Java/0008_string_to_integer.java) |
 | 0009 | 回文数                                     |                              -                               | [here](./Java/0009_palindrome_number.java) |
 | 0011 | 盛最多水的容器                             |                              -                               | [here](./Java/0011_container_with_most_water.java) |
+| 0014 | 最长公共前缀                               |                              -                               | [here](./Java/0014_longest_common_prefix.java) |
 | 0019 | 删除链表的倒数第N个节点                    |   [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)   |                              -                               |
 | 0020 | 有效的括号                                 |         [here](./C\&C++/0020_valid_parentheses.cpp)          |                              -                               |
 | 0033 | 搜索旋转排序数组                           |      [here](./C\&C++/0033_search_in_rotated_array.cpp)       |                              -                               |

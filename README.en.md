@@ -20,6 +20,7 @@ Here is the table of links:
 | 0008  | string to integer                                                         | - | [here](./Java/0008_string_to_integer.java) |
 | 0009  | palindrome number                                                         | - | [here](./Java/0009_palindrome_number.java) |
 | 0011  | container with the most water                                             | - | [here](./Java/0011_container_with_most_water.java) |
+| 0014  | the longest common prefix                                                 | - | [here](./Java/0014_longest_common_prefix.java) |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
