@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (46/1069)
+## Links (47/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -22,6 +22,7 @@ Here is the table of links:
 | 0011  | container with the most water                                             | - | [here](./Java/0011_container_with_most_water.java) |
 | 0014  | the longest common prefix                                                 | - | [here](./Java/0014_longest_common_prefix.java) |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
+| 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists\*.java) |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
 | 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
@@ -46,7 +47,7 @@ Here is the table of links:
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
-| 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst*.java) |
+| 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst\*.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |

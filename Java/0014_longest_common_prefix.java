@@ -42,17 +42,17 @@ class MySolution {
 
 class Solution1 {
     public String longestCommonPrefix(String[] strs) {
-         if (strs == null || strs.length == 0)
-            return "";
+         if (strs == null || strs.length == 0) return "";
+
         StringBuilder sb = new StringBuilder(strs[0]);
-        if (strs.length == 1)
-            return sb.toString();
+        if (strs.length == 1) return sb.toString();
+
         int i = sb.length() - 1, j = 1;
-        while (i>=0 && j<strs.length){
-            if(strs[j].indexOf(sb.toString()) !=0){
+        while (i >= 0 && j < strs.length){
+            if (strs[j].indexOf(sb.toString()) != 0) {
                 sb.deleteCharAt(i);
                 i--;
-            }else
+            } else
                 j++;
         }
 
