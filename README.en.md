@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (48/1069)
+## Links (49/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -25,6 +25,7 @@ Here is the table of links:
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists~.java) |
 | 0026  | remove duplicates from a sorted array                                     | - | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
+| 0027  | remove elements                                                           | - | [here](./Java/0027_remove_elements.java) |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
 | 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |

@@ -12,7 +12,7 @@
 
 PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码！
 
-## 链接（48/1069）
+## 链接（49/1069）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -27,8 +27,9 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0014 | 最长公共前缀                               |                              -                               | [here](./Java/0014_longest_common_prefix.java) |
 | 0019 | 删除链表的倒数第N个节点                    |   [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)   |                              -                               |
 | 0020 | 有效的括号                                 |         [here](./C\&C++/0020_valid_parentheses.cpp)          |                              -                               |
-| 0021 | 合并两个有序链表                           |                              -                               | [here](./Java/0021_merge_two_sorted_lists\*.java) |
-| 0026 | 删除排序数组中的重复项                           |                              -                               | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
+| 0021 | 合并两个有序链表                           |                              -                               | [here](./Java/0021_merge_two_sorted_lists~.java) |
+| 0026 | 删除排序数组中的重复项                     |                              -                               | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
+| 0027 | 移除元素                                   |                              -                               | [here](./Java/0027_remove_elements.java) |
 | 0033 | 搜索旋转排序数组                           |      [here](./C\&C++/0033_search_in_rotated_array.cpp)       |                              -                               |
 | 0034 | 在排序数组中查找元素的第一个和最后一个位置 |                              -                               | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
 | 0049 | 字母异位词分组                             |           [here](./C\&C++/0049_group_anagrams.cpp)           |                              -                               |
@@ -52,7 +53,7 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
 | 0367 | 有效的完全平方数                           |                              -                               |        [here](./Java/0367_valid_perfect_square.java)         |
 | 0429 | N叉树层序遍历                              |                              -                               |        [here](./Java/0429_N-ary_tree_level_order_traversal.java)         |
-| 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst*.java)         |
+| 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst~.java)         |
 | 0498 | 对角线遍历                                 |         [here](./C\&C++/0498_diagonal_traverse.cpp)          |                              -                               |
 | 0589 | N叉树前序遍历                              |                              -                               |    [here](./Java/0589_N-ary_tree_preorder_traversal.java)    |
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
