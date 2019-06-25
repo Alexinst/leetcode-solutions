@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (52/1069)
+## Links (53/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -30,6 +30,7 @@ Here is the table of links:
 | 0029  | divide two integers                                                       | - | [here](./Java/0029_divide_two_integers.java) |
 | 0033  | search in rotated array                                                   | [here](./C\&C++/0033_search_in_rotated_array.cpp) | - |
 | 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
+| 0035  | search insert position                                                    | - | [here](./Java/0035_search_insert_position.java) |
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0067  | add binary                                                                | [here](./C\&C++/0067_add_binary.cpp) | - |
