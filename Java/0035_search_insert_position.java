@@ -62,3 +62,24 @@ class Solution1 {
         return result;
     }
 }
+
+class Solution2 {
+    public int searchInsert(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length ;
+        
+        while(left < right){
+            int middle = left + (right - left) / 2;
+            if (nums[middle] == target) {
+                return middle;
+            }
+            if (nums[middle] > target) {
+                right = middle;
+            } else{
+                left = middle + 1;
+            }   
+        }
+        
+        return left;
+    }
+}
