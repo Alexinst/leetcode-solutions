@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (57/1069)
+## Links (58/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -16,6 +16,7 @@ Here is the table of links:
 | 0002  | add two numbers                                                           | - | [here](./Java/0002_add_two_numbers.java) |
 | 0003  | longest substring without repeating characters                            | [here](./C\&C++/0003_longest_substring_without_repeating_characters.cpp) | - |
 | 0005  | longest palindromic substring                                             | - | [here](./Java/0005_longest_palindromic_substring.java) |
+| 0006  | zigzag conversion                                                         | - | [here](./Java/0006_zigzag_conversion.java) |
 | 0007  | reverse integer                                                           | [here](./C\&C++/0007_reverse_integer.cpp) | - |
 | 0008  | string to integer                                                         | - | [here](./Java/0008_string_to_integer.java) |
 | 0009  | palindrome number                                                         | - | [here](./Java/0009_palindrome_number.java) |
