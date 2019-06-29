@@ -12,7 +12,7 @@
 
 PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码！
 
-## 链接（61/1069）
+## 链接（85/1069）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -53,28 +53,51 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0104 | 二叉树的最大深度                           |                              -                               |    [here](./Java/0104_maximum_depth_of_binary_tree.java)     |
 | 0112 | 路径总和                                   |                              -                               |              [here](./Java/0112_path_sum.java)               |
 | 0118 | 杨辉三角                                   |          [here](./C\&C++/0118_pascals_triangle.cpp)          |                              -                               |
-| 0121 | 买卖股票的最佳时机                         |                              -                               |          [here](./Java/0121_best_time_to_buy_and_sell_stock.java)           |
+| 0121 | 买卖股票的最佳时机                         |                              -                               |   [here](./Java/0121_best_time_to_buy_and_sell_stock.java)   |
+| 0136 | 只出现一次的数字                           |           [here](./C\&C++/0136_single_number.cpp)            |                              -                               |
+| 0141 | 环形链表                                   |         [here](./C\&C++/0141_linked_list_cycle.cpp)          |                              -                               |
+| 0142 | 环形链表 II                                |        [here](./C\&C++/0142_linked_list_cycle_II.cpp)        |                              -                               |
 | 0144 | 二叉树的前序遍历                           |                              -                               |   [here](./Java/0144_binary_tree_preorder_traversal.java)    |
 | 0145 | 二叉树的后序遍历                           |                              -                               |   [here](./Java/0145_binary_tree_postorder_traversal.java)   |
 | 0150 | 逆波兰表达式求值                           |  [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp)  |                              -                               |
+| 0153 | 寻找旋转排序数组中的最小值                 | [here](./C\&C++/0153_find_minimum_in_rotated_sorted_array.cpp) |                              -                               |
+| 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
+| 0167 | 两数之和 II - 输入有序数组                 |   [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp)    |                              -                               |
 | 0173 | 二叉搜索树迭代器                           |                              -                               |     [here](./Java/0173_binary_search_tree_iterator.java)     |
+| 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
 | 0205 | 同构字符串                                 |         [here](./C\&C++/0205_isomorphic_strings.cpp)         |                              -                               |
 | 0208 | 实现前缀树（Trie）                         |                              -                               |           [here](./Java/0208_implement_trie.java)            |
 | 0211 | 添加与搜索单词                             |                              -                               |        [here](./Java/0211_add_and_search_words.java)         |
+| 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
+| 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
+| 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
+| 0344 | 反转字符串                                 |           [here](./C\&C++/0344_reverse_string.cpp)           |                              -                               |
+| 0347 | 前K个高频元素                              |      [here](./C\&C++/0347_top_k_frequent_elements.cpp)       |                              -                               |
+| 0349 | 两个数组的交集                             |     [here](./C\&C++/0349_intersection_of_two_arrays.cpp)     |                              -                               |
+| 0350 | 两个数组的交集 II                          |   [here](./C\&C++/0350_intersection_of_two_arrays_II.cpp)    |                              -                               |
 | 0367 | 有效的完全平方数                           |                              -                               |        [here](./Java/0367_valid_perfect_square.java)         |
+| 0374 | 猜数字大小                                 |    [here](./C\&C++/0374_guess_number_higher_or_lower.cpp)    |                              -                               |
+| 0380 | 常数时间插入、删除和获取随机元素 O(1)      |     [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp)     |                              -                               |
+| 0387 | 字符串中的第一个唯一字符                   | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) |                              -                               |
 | 0429 | N叉树层序遍历                              |                              -                               |  [here](./Java/0429_N-ary_tree_level_order_traversal.java)   |
 | 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst~.java)        |
 | 0498 | 对角线遍历                                 |         [here](./C\&C++/0498_diagonal_traverse.cpp)          |                              -                               |
+| 0561 | 数组拆分 I                                 |         [here](./C\&C++/0561_array_partition_I.cpp)          |                              -                               |
 | 0589 | N叉树前序遍历                              |                              -                               |    [here](./Java/0589_N-ary_tree_preorder_traversal.java)    |
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
+| 0622 | 设计循环队列                               |       [here](./C\&C++/0622_design_circular_queue.cpp)        |                              -                               |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
 | 0677 | 键值映射                                   |                              -                               |            [here](./Java/0677_map_sum_pairs.java)            |
 | 0700 | 二叉搜索树的搜索                           |                              -                               |   [here](./Java/0700_search_in_a_binary_search_tree.java)    |
 | 0701 | 二叉搜索树的插入操作                       |                              -                               |   [here](./Java/0701_insert_in_a_binary_search_tree.java)    |
 | 0704 | 二分查找                                   |           [here](./C\&C++/0704_binary_search.cpp)            |                              -                               |
+| 0705 | 设计哈希集合                               |           [here](./C\&C++/0705_design_hashset.cpp)           |                              -                               |
+| 0706 | 设计哈希映射                               |           [here](./C\&C++/0706_design_hashmap.cpp)           |                              -                               |
+| 0707 | 设计链表                                   |         [here](./C\&C++/0707_design_linked_list.cpp)         |                              -                               |
 | 0724 | 寻找数组的中心索引                         |          [here](./C\&C++/0724_find_pivot_index.cpp)          |                              -                               |
 | 0739 | 每日温度                                   |         [here](./C\&C++/0739_daily_temperatures.cpp)         |                              -                               |
-
+| 0747 | 至少是其他数字两倍的最大数                 | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) |                              -                               |
+| 0771 | 宝石和石头                                 |         [here](./C\&C++/0771_jewels_and_stones.cpp)          |                              -                               |

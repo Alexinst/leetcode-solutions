@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (61/1069)
+## Links (85/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -50,27 +50,51 @@ Here is the table of links:
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0121  | the best to buy and sell stock                                            | - | [here](./Java/0121_best_time_to_buy_and_sell_stock.java) |
+| 0136  | single number                                                             | [here](./C\&C++/0136_single_number.cpp) | - |
+| 0141  | linked list cycle                                                         | [here](./C\&C++/0141_linked_list_cycle.cpp) | - |
+| 0142  | linked list cycle II                                                      | [here](./C\&C++/0142_linked_list_cycle_II.cpp) | - |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
+| 0153  | find minimum in rotated sorted array                                      | [here](./C\&C++/0153_find_minimum_in_rotated_sorted_array.cpp) | - |
+| 0155  | minimum stack                                                             | [here](./C\&C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
-| 0173  | the iterator of a binary search tree                                      | - | [here](./Java/0173_binary_search_tree_iterator.java) |
+| 0167  | two sum II - input sorted array	                                        | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |
+| 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
+| 0202  | happy number                                                              | [here](./C\&C++/0202_happy_number.cpp) | - |
 | 0205  | isomorphic strings                                                        | [here](./C\&C++/0205_isomorphic_strings.cpp) | - |
 | 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
+| 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
+| 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
+| 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
+| 0344  | reverse string                                                            | [here](./C\&C++/0344_reverse_string.cpp) | - |
+| 0347  | top K frequent elements                                                   | [here](./C\&C++/0347_top_k_frequent_elements.cpp) | - |
+| 0349  | intersection of two arrays                                                | [here](./C\&C++/0349_intersection_of_two_arrays.cpp) | - |
+| 0350  | intersection of two arrays II                                             | [here](./C\&C++/0350_intersection_of_two_arrays_II.cpp) | - |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
+| 0374  | guess number higher or lower                                              | [here](./C\&C++/0374_guess_number_higher_or_lower.cpp) | - |
+| 0380  | insert delete getrandom O(1)                                              | [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp) | - |
+| 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
+| 0561  | array partition I                                                         | [here](./C\&C++/0561_array_partition_I.cpp) | - |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
+| 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | - |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) | - |
+| 0705  | design a hashset                                                          | [here](./C\&C++/0705_design_hashset.cpp) | - |
+| 0706  | design a hashmap                                                          | [here](./C\&C++/0706_design_hashmap.cpp) | - |
+| 0707  | design a linked list                                                      | [here](./C\&C++/0707_design_linked_list.cpp) | - |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) | - |
 | 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) | - |
+| 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
+| 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 
