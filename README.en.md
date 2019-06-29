@@ -4,6 +4,10 @@
 
 The main programming languages will be Java, while C++ is going to be suspended.
 
+To upload: 0347 0349 0350 0374 0380 0387 0561 0622 0705 0706 0707 0747 0771
+
+To modify: 0167
+
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
