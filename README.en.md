@@ -56,7 +56,7 @@ Here is the table of links:
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
-| 0153  | find minimum in rotated sorted array                                      | [here](./C\&C++/0153_find_minimum_in_rotated_sorted_array.cpp) | - |
+| 0153  | find minimum in rotated sorted array                                      | - | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155  | minimum stack                                                             | [here](./C\&C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
 | 0167  | two sum II - input sorted array	                                        | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |

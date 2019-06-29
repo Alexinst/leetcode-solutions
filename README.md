@@ -60,7 +60,7 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0144 | 二叉树的前序遍历                           |                              -                               |   [here](./Java/0144_binary_tree_preorder_traversal.java)    |
 | 0145 | 二叉树的后序遍历                           |                              -                               |   [here](./Java/0145_binary_tree_postorder_traversal.java)   |
 | 0150 | 逆波兰表达式求值                           |  [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp)  |                              -                               |
-| 0153 | 寻找旋转排序数组中的最小值                 | [here](./C\&C++/0153_find_minimum_in_rotated_sorted_array.cpp) |                              -                               |
+| 0153 | 寻找旋转排序数组中的最小值                 |                              -                               | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
 | 0167 | 两数之和 II - 输入有序数组                 |   [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp)    |                              -                               |
