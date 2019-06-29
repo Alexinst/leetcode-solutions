@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (59/1069)
+## Links (61/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -41,6 +41,7 @@ Here is the table of links:
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0067  | add binary                                                                | [here](./C\&C++/0067_add_binary.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
+| 0070  | climbing stairs                                                           | - | [here](./Java/0070_climbing_stairs.java) |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0098  | validate binary search tree                                               | - | [here](./Java/0098_validate_binary_search_tree.java) |
 | 0101  | symmetric tree                                                            | - | [here](./Java/0101_symmetric_tree.java) |
@@ -48,6 +49,7 @@ Here is the table of links:
 | 0104  | maximum depth of a binary tree                                            | - | [here](./Java/0104_maximum_depth_of_binary_tree.java) |
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
+| 0121  | the best to buy and sell stock                                            | - | [here](./Java/0121_best_time_to_buy_and_sell_stock.java) |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
