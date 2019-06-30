@@ -4,14 +4,12 @@
 
 The main programming languages will be Java, while C++ is going to be suspended.
 
-To upload: 0347 0349 0350 0374 0380 0387 0561 0622 0705 0706 0707 0747 0771
-
-To modify: 0167
+To modify: 0167 0707
 
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (85/1069)
+## Links (86/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -27,6 +25,7 @@ Here is the table of links:
 | 0011  | container with the most water                                             | - | [here](./Java/0011_container_with_most_water.java) |
 | 0013  | roman numbers to integers                                                 | - | [here](./Java/0013_roman_to_integer.java) |
 | 0014  | the longest common prefix                                                 | - | [here](./Java/0014_longest_common_prefix.java) |
+| 0015  | three sum                                                                 | - | [here](./Java/0015_three_sum.java) |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists~.java) |
