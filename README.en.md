@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (86/1069)
+## Links (8git/1069)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -29,6 +29,7 @@ Here is the table of links:
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C\&C++/0019_remove_nth_node_from_end_of_ll.cpp)| - |
 | 0020	| valid parentheses                                                         | [here](./C\&C++/0020_valid_parentheses.cpp)| - |
 | 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists~.java) |
+| 0024  | swap nodes in pairs                                                       | - | [here](./Java/0024_swap_nodes_in_pairs.java) |
 | 0026  | remove duplicates from a sorted array                                     | - | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
 | 0027  | remove elements                                                           | - | [here](./Java/0027_remove_elements.java) |
 | 0028  | implement strStr                                                          | - | [here](./Java/0028_implement_strStr.java) |
@@ -62,8 +63,9 @@ Here is the table of links:
 | 0153  | find minimum in rotated sorted array                                      | - | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155  | minimum stack                                                             | [here](./C\&C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
-| 0167  | two sum II - input sorted array	                                        | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |
+| 0167  | two sum II - input sorted array                                           | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |
 | 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
+| 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
 | 0202  | happy number                                                              | [here](./C\&C++/0202_happy_number.cpp) | - |
 | 0205  | isomorphic strings                                                        | [here](./C\&C++/0205_isomorphic_strings.cpp) | - |
 | 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
