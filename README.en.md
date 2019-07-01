@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (89/1069)
+## Links (90/1098)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -101,6 +101,7 @@ Here is the table of links:
 | 0707  | design a linked list                                                      | [here](./C\&C++/0707_design_linked_list.cpp) | - |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) | - |
 | 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) | - |
+| 0746  | minimum cost of climbing stairs                                           | - | [here](./Java/0746_min_cost_climbing_stairs.java) |
 | 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 
