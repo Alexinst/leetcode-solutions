@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (92/1098)
+## Links (93/1098)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -44,6 +44,7 @@ Here is the table of links:
 | 0058  | the length of the last word                                               | - | [here](./Java/0058_length_of_last_word.java) |
 | 0062  | unique paths                                                              | - | [here](./Java/0062_unique_paths.java) |
 | 0063  | unique paths II                                                           | - | [here](./Java/0063_unique_paths_II.java) |
+| 0064  | minimum path sum                                                          | - | [here](./Java/0064_minimum_path_sum.java) |
 | 0066  | plus                                                                      | [here](./C\&C++/0066_plus_one.cpp) | - |
 | 0067  | add binary                                                                | [here](./C\&C++/0067_add_binary.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
