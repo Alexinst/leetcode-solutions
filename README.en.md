@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (94/1098)
+## Links (95/1098)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -49,6 +49,7 @@ Here is the table of links:
 | 0067  | add binary                                                                | [here](./C\&C++/0067_add_binary.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
 | 0070  | climbing stairs                                                           | - | [here](./Java/0070_climbing_stairs.java) |
+| 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
 | 0091  | decode ways                                                               | - | [here](./Java/0091_decode_ways.java) |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0098  | validate binary search tree                                               | - | [here](./Java/0098_validate_binary_search_tree.java) |
