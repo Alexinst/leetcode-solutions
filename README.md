@@ -50,7 +50,8 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0066 | 加一                                       |              [here](./C\&C++/0066_plus_one.cpp)              |                              -                               |
 | 0067 | 二进制求和                                 |             [here](./C\&C++/0067_add_binary.cpp)             |                              -                               |
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
-| 0070 | 爬楼梯                                     |                              -                               |          [here](./Java/0070——climbing_stairs.java)           |
+| 0070 | 爬楼梯                                     |                              -                               |          [here](./Java/0070_climbing_stairs.java)           |
+| 0091 | 解码方法                                     |                              -                               |          [here](./Java/0091_decode_ways.java)           |
 | 0094 | 二叉树的中序遍历                           |                              -                               |    [here](./Java/0094_binary_tree_inorder_traversal.java)    |
 | 0098 | 验证二叉搜索树                             |                              -                               |     [here](./Java/0098_validate_binary_search_tree.java)     |
 | 0101 | 对称二叉树                                 |                              -                               |           [here](./Java/0101_symmetric_tree.java)            |
