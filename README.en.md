@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (98/1098)
+## Links (99/1098)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -66,6 +66,7 @@ Here is the table of links:
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp) | - |
+| 0152  | maximum product of subarrays                                              | - | [here](./Java/0152_maximum_product_sbuarray.java) |
 | 0153  | find minimum in rotated sorted array                                      | - | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155  | minimum stack                                                             | [here](./C\&C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
