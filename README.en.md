@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (100/1098)
+## Links (101/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -70,6 +70,7 @@ Here is the table of links:
 | 0153  | find minimum in rotated sorted array                                      | - | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155  | minimum stack                                                             | [here](./C\&C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp) | - |
+| 0162  | find the peak element                                                     | - | [here](./Java/0162_find_peak_element.java) |
 | 0167  | two sum II - input sorted array                                           | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |
 | 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
