@@ -32,7 +32,7 @@ class MySolution {
     }
 }
 
-class Solution {
+class Solution1 {
     public int lengthOfLIS(int[] nums) {
         int len = nums.length;
         if(len <= 1){
@@ -54,7 +54,7 @@ class Solution {
                         left = mid;
                         break;
                     } else if (dp[mid] < nums[i]) {
-                        left = left + 1;
+                        left = mid + 1;
                     } else {
                         right =  mid;
                     }
