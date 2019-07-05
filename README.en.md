@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (105/1106)
+## Links (106/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -76,6 +76,7 @@ Here is the table of links:
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
 | 0202  | happy number                                                              | [here](./C\&C++/0202_happy_number.cpp) | - |
 | 0205  | isomorphic strings                                                        | [here](./C\&C++/0205_isomorphic_strings.cpp) | - |
+| 0206  | reverse linked list                                                       | - | [here](./Java/0206_reverse_linked_list.java) |
 | 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
 | 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
