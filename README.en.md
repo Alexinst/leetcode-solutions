@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (102/1106)
+## Links (104/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -103,6 +103,7 @@ Here is the table of links:
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
 | 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | - |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
+| 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
@@ -116,4 +117,5 @@ Here is the table of links:
 | 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
+| 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 
