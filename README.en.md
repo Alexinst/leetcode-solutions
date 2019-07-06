@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (106/1106)
+## Links (107/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -118,6 +118,7 @@ Here is the table of links:
 | 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
+| 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 
