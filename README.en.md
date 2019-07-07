@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (107/1106)
+## Links (109/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -81,6 +81,7 @@ Here is the table of links:
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
 | 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
+| 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
@@ -119,6 +120,7 @@ Here is the table of links:
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
+| 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 

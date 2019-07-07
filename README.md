@@ -12,7 +12,7 @@
 
 PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码！
 
-## 链接（107/1106）
+## 链接（109/1106）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -78,11 +78,12 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0198 | 打家劫舍                                   |                              -                               |            [here](./Java/0198_house_robber.java)             |
 | 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
 | 0205 | 同构字符串                                 |         [here](./C\&C++/0205_isomorphic_strings.cpp)         |                              -                               |
-| 0206 | 反转链表                                   |                              -                               |           [here](./Java/0206_reverse_linked_list.java)            |
+| 0206 | 反转链表                                   |                              -                               |         [here](./Java/0206_reverse_linked_list.java)         |
 | 0208 | 实现前缀树（Trie）                         |                              -                               |           [here](./Java/0208_implement_trie.java)            |
 | 0211 | 添加与搜索单词                             |                              -                               |        [here](./Java/0211_add_and_search_words.java)         |
 | 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
+| 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
 | 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
 | 0303 | 最长上升子序列                             |                              -                               |   [here](./Java/0300_longest_increasing_subsequence.java)    |
@@ -120,6 +121,7 @@ PS: 希望看到这里的你，能找到让你抓耳挠腮、豁然开朗、拍�
 | 0747 | 至少是其他数字两倍的最大数                 | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) |                              -                               |
 | 0771 | 宝石和石头                                 |         [here](./C\&C++/0771_jewels_and_stones.cpp)          |                              -                               |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
-| 0922 | 按奇偶排序数组 II                          |                              -                               |           [here](./Java/0922_sort_array_by_parity_II.java)           |
+| 0922 | 按奇偶排序数组 II                          |                              -                               |       [here](./Java/0922_sort_array_by_parity_II.java)       |
+| 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
