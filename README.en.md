@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (110/1106)
+## Links (111/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -107,6 +107,7 @@ Here is the table of links:
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
+| 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) | - |
