@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (111/1106)
+## Links (112/1106)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -114,6 +114,7 @@ Here is the table of links:
 | 0705  | design a hashset                                                          | [here](./C\&C++/0705_design_hashset.cpp) | - |
 | 0706  | design a hashmap                                                          | [here](./C\&C++/0706_design_hashmap.cpp) | - |
 | 0707  | design a linked list                                                      | [here](./C\&C++/0707_design_linked_list.cpp) | - |
+| 0720  | longest word in dictionary                                                | - | [here](./Java/0720_longest_word_in_dictionary.java) |
 | 0724  | find pivot index                                                          | [here](./C\&C++/0724_find_pivot_index.cpp) | - |
 | 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) | - |
 | 0746  | minimum cost of climbing stairs                                           | - | [here](./Java/0746_min_cost_climbing_stairs.java) |
