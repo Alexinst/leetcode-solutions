@@ -102,3 +102,59 @@ class Solution1 {
         return barcodes;
     }
 }
+
+class Solution2 {
+     public int[] rearrangeBarcodes(int[] barcodes) {
+         int len = barcodes.length;
+        int[] count = new int[10001];
+        for (int i = 0; i < len; i++) {
+            count[barcodes[i]]++;
+        }       
+
+        int maxCnt = 0;
+        int maxNum = 0;
+        for (int i = 1; i < 10001; i++) {
+            if (count[i] > maxCnt) {
+                maxCnt = count[i];
+                maxNum = i;
+            }
+        }
+        int q = 0;    // result 填充位置
+        int index = 0;    // count 使用位置
+        /* 先使用出现次数最多的数字填充奇数位, 最多恰好填满 */
+        while (q < len) {
+            if (count[maxNum] <= 0) {
+                break;  // 填充完毕
+            } else {
+                count[maxNum]--;
+                barcodes[q] = maxNum;
+                q += 2;
+            }
+        }
+        /* 尝试继续填充奇数位 */
+        while (q < len) {
+            if (count[index] <= 0) {
+                index++;
+                //continue;
+            } else {
+                count[index]--;
+                barcodes[q] = index;
+                q += 2;
+            }
+        }
+        /* 继续填充偶数位 */
+        int p = 1;
+        while (p < len) {
+            if (count[index] <= 0) {
+                index++;
+                continue;
+            } else {
+                count[index]--;
+                barcodes[p] = index;
+                p += 2;
+            }
+        }
+        return barcodes;
+        
+    }
+}
