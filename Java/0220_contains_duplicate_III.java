@@ -70,23 +70,28 @@ class Solution1 {
     }
 }
 
+
 class Solution2 {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
-        if (nums.length < 2 || k == 10000) {
+        if (k <= 0 || t < 0 ||
+            nums.length == 0 || nums.length == 1)
             return false;
+
+        TreeSet<Integer> set = new TreeSet<>();
+        for (int i = 0; i < nums.length; i++) {
+            Integer ceiling = set.ceiling(nums[i]);
+            if (ceiling != null && ceiling - nums[i] <= t)
+                return true;
+
+            Integer floor = set.floor(nums[i]);
+            if (floor != null && nums[i] - floor <= t)
+                return true;
+
+            set.add(nums[i]);
+            if (set.size() > k)
+                set.remove(nums[i - k]);
         }
 
-        boolean flag = false;
-        for (int i = 1;i < nums.length; i++) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (i - j > k) {
-                    break;
-                }
-
-                if (Math.abs((long)nums[i]-(long)nums[j]) <= t)
-                    return true;
-            }
-        }
-        return flag;
+        return false;
     }
 }
