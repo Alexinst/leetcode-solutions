@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (120/1106)
+## Links (122/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -85,6 +85,7 @@ Here is the table of links:
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
 | 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
+| 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
@@ -123,6 +124,7 @@ Here is the table of links:
 | 0739  | daily temperatures                                                        | [here](./C\&C++/0739_daily_temperatures.cpp) | - |
 | 0746  | minimum cost of climbing stairs                                           | - | [here](./Java/0746_min_cost_climbing_stairs.java) |
 | 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
+| 0767  | reorganize string                                                         | - | [here](./Java/0767_reorganize_string.java) |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |

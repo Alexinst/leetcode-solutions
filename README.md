@@ -85,6 +85,7 @@ PS: 希望你能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码�
 | 0211 | 添加与搜索单词                             |                              -                               |        [here](./Java/0211_add_and_search_words.java)         |
 | 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
+| 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
 | 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
 | 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
@@ -122,7 +123,8 @@ PS: 希望你能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码�
 | 0724 | 寻找数组的中心索引                         |          [here](./C\&C++/0724_find_pivot_index.cpp)          |                              -                               |
 | 0739 | 每日温度                                   |         [here](./C\&C++/0739_daily_temperatures.cpp)         |                              -                               |
 | 0746 | 使用最小花费爬楼梯                         |                              -                               |      [here](./Java/0746_min_cost_climbing_stairs.java)       |
-| 0747 | 至少是其他数字两倍的最大数                 | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) |                              -                               |
+| 0747 | 至少是其他数字两倍的最大数                 | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) |                              -                          |
+| 0767 | 重构字符串                                 |                              -                               |          [here](./Java/0767_reorganize_string.java)          |
 | 0771 | 宝石和石头                                 |         [here](./C\&C++/0771_jewels_and_stones.cpp)          |                              -                               |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
 | 0874 | 模拟行走机器人                             |                              -                               |      [here](./Java/0874_walking_robot_simulation.java)       |
