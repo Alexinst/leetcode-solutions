@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (123/1122)
+## Links (124/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -134,6 +134,7 @@ Here is the table of links:
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
+| 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
 | 1122  | relative sort array                                                       | - | [here](./Java/1122_relative_sort_array.java) |
