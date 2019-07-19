@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (124/1122)
+## Links (125/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -42,6 +42,7 @@ Here is the table of links:
 | 0049  | group anagrams                                                            | [here](./C\&C++/0049_group_anagrams.cpp) | - |
 | 0053  | maximum sum of the subarray                                               | - | [here](./Java/0053_maximum_subarray.java) |
 | 0055  | jump game                                                                 | - | [here](./Java/0055_jump_game.java) |
+| 0056  | merge intervals                                                           | - | [here](./Java/0056_merge_intervals.java) |
 | 0058  | the length of the last word                                               | - | [here](./Java/0058_length_of_last_word.java) |
 | 0062  | unique paths                                                              | - | [here](./Java/0062_unique_paths.java) |
 | 0063  | unique paths II                                                           | - | [here](./Java/0063_unique_paths_II.java) |
