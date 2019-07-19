@@ -10,7 +10,7 @@
 
 PS: 希望你能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码！
 
-## 链接（125/1106）
+## 链接（126/1106）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -51,27 +51,28 @@ PS: 希望你能找到让你抓耳挠腮、豁然开朗、拍案叫绝的代码�
 | 0067 | 二进制求和                                 |             [here](./C\&C++/0067_add_binary.cpp)             |                              -                               |
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
 | 0070 | 爬楼梯                                     |                              -                               |           [here](./Java/0070_climbing_stairs.java)           |
-| 0088 | 合并两个有序数组                           |                              -                               |         [here](./Java/0088_merge_sorted_arrays.java)         |
-| 0091 | 解码方法                                   |                              -                               |             [here](./Java/0091_decode_ways.java)             |
-| 0094 | 二叉树的中序遍历                           |                              -                               |    [here](./Java/0094_binary_tree_inorder_traversal.java)    |
-| 0098 | 验证二叉搜索树                             |                              -                               |     [here](./Java/0098_validate_binary_search_tree.java)     |
-| 0101 | 对称二叉树                                 |                              -                               |           [here](./Java/0101_symmetric_tree.java)            |
-| 0102 | 二叉树的层次遍历                           |                              -                               |  [here](./Java/0102_binary_tree_level_order_traversal.java)  |
-| 0104 | 二叉树的最大深度                           |                              -                               |    [here](./Java/0104_maximum_depth_of_binary_tree.java)     |
-| 0112 | 路径总和                                   |                              -                               |              [here](./Java/0112_path_sum.java)               |
-| 0118 | 杨辉三角                                   |          [here](./C\&C++/0118_pascals_triangle.cpp)          |                              -                               |
-| 0121 | 买卖股票的最佳时机                         |                              -                               |   [here](./Java/0121_best_time_to_buy_and_sell_stock.java)   |
-| 0122 | 买卖股票的最佳时机 II                      |                              -                               | [here](./Java/0121_best_time_to_buy_and_sell_stock_II.java)  |
-| 0136 | 只出现一次的数字                           |           [here](./C\&C++/0136_single_number.cpp)            |                              -                               |
-| 0141 | 环形链表                                   |         [here](./C\&C++/0141_linked_list_cycle.cpp)          |                              -                               |
-| 0142 | 环形链表 II                                |        [here](./C\&C++/0142_linked_list_cycle_II.cpp)        |                              -                               |
-| 0144 | 二叉树的前序遍历                           |                              -                               |   [here](./Java/0144_binary_tree_preorder_traversal.java)    |
-| 0145 | 二叉树的后序遍历                           |                              -                               |   [here](./Java/0145_binary_tree_postorder_traversal.java)   |
-| 0147 | 对链表进行插入排序                         |                              -                               |         [here](./Java/0147_insertion_sort_list.java)         |
-| 0148 | 排序链表                                   |                              -                               |              [here](./Java/0148_sort_list.java)              |
-| 0150 | 逆波兰表达式求值                           |  [here](./C\&C++/0150_evaluate_reverse_polish_notation.cpp)  |                              -                               |
-| 0152 | 乘积最大子序列                             |                              -                               |      [here](./Java/0152_maximum_product_subarray.java)       |
-| 0153 | 寻找旋转排序数组中的最小值                 |                              -                               | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
+| 0075 | 颜色分类                                   |                              -                               |           [here](./Java/0075_sort_colors.java)           |
+| 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
+| 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
+| 0162 | 寻找峰值                                   |                              -                               |          [here](./Java/0162_find_peak_element.java)          |
+| 0167 | 两数之和 II - 输入有序数组                 |   [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp)    |                              -                               |
+| 0173 | 二叉搜索树迭代器                           |                              -                               |     [here](./Java/0173_binary_search_tree_iterator.java)     |
+| 0179 | 最大数                                     |                              -                               |           [here](./Java/0179_largest_number.java)            |
+| 0198 | 打家劫舍                                   |                              -                               |            [here](./Java/0198_house_robber.java)             |
+| 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
+| 0205 | 同构字符串                                 |         [here](./C\&C++/0205_isomorphic_strings.cpp)         |                              -                               |
+| 0206 | 反转链表                                   |                              -                               |         [here](./Java/0206_reverse_linked_list.java)         |
+| 0208 | 实现前缀树（Trie）                         |                              -                               |           [here](./Java/0208_implement_trie.java)            |
+| 0211 | 添加与搜索单词                             |                              -                               |        [here](./Java/0211_add_and_search_words.java)         |
+| 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
+| 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
+| 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
+| 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
+| 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
+| 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
+| 0303 | 最长上升子序列                             |                              -                               |   [here](./Java/0300_longest_increasing_subsequence.java)    |
+| 0303 | 区域与检索-数组不可变                      |                              -                               |      [here](./Java/0303_range_sum_query_immutable.java)      |
+| 0344 | 反转字符串                                 |           [here](./C\&C++/0344_reverse_string.cpp)           |                              -                               |
 | 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
 | 0162 | 寻找峰值                                   |                              -                               |          [here](./Java/0162_find_peak_element.java)          |
