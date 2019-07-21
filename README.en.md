@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (127/1122)
+## Links (128/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -89,6 +89,7 @@ Here is the table of links:
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
+| 0274  | H index                                                                   | - | [here](./Java/0274_h_index.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
