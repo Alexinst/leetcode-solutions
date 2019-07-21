@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (126/1122)
+## Links (127/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -133,6 +133,7 @@ Here is the table of links:
 | 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0944  | delete columns to make sorted                                             | - | [here](./Java/0944_delete_columns_to_make_sorted.java) |
+| 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
