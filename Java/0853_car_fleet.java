@@ -90,13 +90,13 @@ class Solution1 {
     public int carFleet(int target, int[] position, int[] speed) {
         if (position.length != speed.length) return 0;
         int count = position.length;
-        if (count==0) return 0;
+        if (count == 0) return 0;
         
         int maxLoc = 0, result = 0;
         boolean flag = true;
         while (flag) {
             for (int i = 0; i < count; i++) { 
-                if(position[i] > position[maxLoc])
+                if (position[i] > position[maxLoc])
                     maxLoc = i;
             }
             
@@ -107,7 +107,7 @@ class Solution1 {
             
             double time = (double)(target - position[maxLoc]) / speed[maxLoc];
             for (int i = 0; i < count; i++) {
-                if (speed[i]==0) continue;
+                if (speed[i] == 0) continue;
                 if (speed[i] * time + position[i] >= target) {
                     speed[i] = 0;
                     position[i] = -1;
