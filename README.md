@@ -50,6 +50,7 @@
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
 | 0070 | 爬楼梯                                     |                              -                               |           [here](./Java/0070_climbing_stairs.java)           |
 | 0075 | 颜色分类                                   |                              -                               |             [here](./Java/0075_sort_colors.java)             |
+| 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
 | 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
 | 0162 | 寻找峰值                                   |                              -                               |          [here](./Java/0162_find_peak_element.java)          |
@@ -58,6 +59,7 @@
 | 0179 | 最大数                                     |                              -                               |           [here](./Java/0179_largest_number.java)            |
 | 0198 | 打家劫舍                                   |                              -                               |            [here](./Java/0198_house_robber.java)             |
 | 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
+| 0203 | 移除链表元素                               |                              -                               |     [here](./Java/0203_remove_linked_list_elements.java)     |
 | 0205 | 同构字符串                                 |         [here](./C\&C++/0205_isomorphic_strings.cpp)         |                              -                               |
 | 0206 | 反转链表                                   |                              -                               |         [here](./Java/0206_reverse_linked_list.java)         |
 | 0208 | 实现前缀树（Trie）                         |                              -                               |           [here](./Java/0208_implement_trie.java)            |
@@ -65,6 +67,8 @@
 | 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
 | 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
+| 0234 | 回文链表                                   |                              -                               |       [here](./Java/0234_palindrome_linked_list.java)        |
+| 0237 | 删除链表中的节点                           |                              -                               |      [here](./Java/0237_delete_node_a_linked_list.java)      |
 | 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
 | 0274 | H指数                                      |                              -                               |               [here](./Java/0274_h_index.java)               |
 | 0278 | 第一个错误的版本                           |                              -                               |          [here](./Java/0278_first_bad_version.java)          |
@@ -131,6 +135,7 @@
 | 0853 | 车队                                       |                              -                               |              [here](./Java/0853_car_fleet.java)              |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
 | 0874 | 模拟行走机器人                             |                              -                               |      [here](./Java/0874_walking_robot_simulation.java)       |
+| 0876 | 链表的中间结点                             |                              -                               |      [here](./Java/0876_middle_of_the_linked_list.java)      |
 | 0881 | 救生挺                                     |                              -                               |        [here](./Java/0881_boats_to_save_people.java)         |
 | 0922 | 按奇偶排序数组 II                          |                              -                               |       [here](./Java/0922_sort_array_by_parity_II.java)       |
 | 0944 | 删列造序                                   |                              -                               |    [here](./Java/0944_delete_columns_to_make_sorted.java)    |
