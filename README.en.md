@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (129/1122)
+## Links (130/1122)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -107,6 +107,7 @@ Here is the table of links:
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
 | 0509  | fibonacci number                                                          | - | [here](./Java/0509_fibonacci_number.java) |
+| 0524  | longest word in dictionary throught deleting                              | - | [here](./Java/0524_longest_word_in_dictionary_through_deleting.java) |
 | 0561  | array partition I                                                         | [here](./C\&C++/0561_array_partition_I.cpp) | - |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
