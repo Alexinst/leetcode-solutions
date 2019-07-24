@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (138/1126)
+## Links (139/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -44,6 +44,7 @@ Here is the table of links:
 | 0055  | jump game                                                                 | - | [here](./Java/0055_jump_game.java) |
 | 0056  | merge intervals                                                           | - | [here](./Java/0056_merge_intervals.java) |
 | 0058  | the length of the last word                                               | - | [here](./Java/0058_length_of_last_word.java) |
+| 0061  | rotate list                                                               | - | [here](./Java/0061_rotate_list.java) |
 | 0062  | unique paths                                                              | - | [here](./Java/0062_unique_paths.java) |
 | 0063  | unique paths II                                                           | - | [here](./Java/0063_unique_paths_II.java) |
 | 0064  | minimum path sum                                                          | - | [here](./Java/0064_minimum_path_sum.java) |
