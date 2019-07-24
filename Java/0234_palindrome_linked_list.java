@@ -40,31 +40,41 @@ Follow up:
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+
+/**
+ * 将链表前半段反转方向，再与后半段进行对比
+ */
+class MySolution {
     public boolean isPalindrome(ListNode head) {
-        Stack<ListNode> stack = new Stack<>();
-        ListNode slow = head, fast = head;
+        if (head == null || head.next == null)
+            return true;
         
-        boolean isOdd = false;
+       	ListNode fast = head, slow = head, pre = null;
+        boolean isOdd = false;      // 链表长度是否为奇数
         while (fast != null && fast.next != null) {
-            stack.push(slow);
-            slow = slow.next;
             fast = fast.next.next;
+            
+            ListNode tmp = slow.next;
+            slow.next = pre;
+            pre = slow;
+            slow = tmp;
             
             if (fast != null && fast.next == null) {
                 isOdd = true;
             }
         }
         
-        if (isOdd) 
+        if (isOdd)
             slow = slow.next;
         
-        while (!stack.isEmpty()) {
-            ListNode node = stack.pop();
-            if (node.val != slow.val) 
+        // slow 代表后半段，pre 代表逆转的前半段
+        while (slow != null) {
+            if (slow.val != pre.val)
                 return false;
-            else 
+            else {
                 slow = slow.next;
+                pre = pre.next;
+            }
         }
         
         return true;
