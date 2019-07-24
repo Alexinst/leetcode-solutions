@@ -50,6 +50,7 @@
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
 | 0070 | 爬楼梯                                     |                              -                               |           [here](./Java/0070_climbing_stairs.java)           |
 | 0075 | 颜色分类                                   |                              -                               |             [here](./Java/0075_sort_colors.java)             |
+| 0082 | 删除排序链表中的重复元素 II                |                              -                               | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
 | 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
