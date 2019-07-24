@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (136/1126)
+## Links (138/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -56,6 +56,7 @@ Here is the table of links:
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
 | 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
 | 0091  | decode ways                                                               | - | [here](./Java/0091_decode_ways.java) |
+| 0092  | reverse linked list II                                                    | - | [here](./Java/0092_reverse_linked_list_II.java) |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0098  | validate binary search tree                                               | - | [here](./Java/0098_validate_binary_search_tree.java) |
 | 0101  | symmetric tree                                                            | - | [here](./Java/0101_symmetric_tree.java) |
@@ -108,6 +109,7 @@ Here is the table of links:
 | 0380  | insert delete getrandom O(1)                                              | [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
+| 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |

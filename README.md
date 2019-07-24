@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接（136/1106）
+## 链接（138/1106）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -52,6 +52,7 @@
 | 0075 | 颜色分类                                   |                              -                               |             [here](./Java/0075_sort_colors.java)             |
 | 0082 | 删除排序链表中的重复元素 II                |                              -                               | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
+| 0092 | 反转链表 II                                |                              -                               |       [here](./Java/0092_reverse_linked_list_II.java)        |
 | 0155 | 最小栈                                     |             [here](./C\&C++/0155_min_stack.cpp)              |                              -                               |
 | 0160 | 相交链表                                   |  [here](./C\&C++/0160_intersection_of_two_linked_lists.cpp)  |                              -                               |
 | 0162 | 寻找峰值                                   |                              -                               |          [here](./Java/0162_find_peak_element.java)          |
@@ -106,6 +107,7 @@
 | 0380 | 常数时间插入、删除和获取随机元素 O(1)      |     [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp)     |                              -                               |
 | 0387 | 字符串中的第一个唯一字符                   | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) |                              -                               |
 | 0429 | N叉树层序遍历                              |                              -                               |  [here](./Java/0429_N-ary_tree_level_order_traversal.java)   |
+| 0445 | 两数相加 II                                |                              -                               |         [here](./Java/0445_add_two_numbers_II.java)          |
 | 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst~.java)        |
 | 0455 | 分发饼干                                   |                              -                               |           [here](./Java/0455_assign_cookies.java)            |
 | 0498 | 对角线遍历                                 |         [here](./C\&C++/0498_diagonal_traverse.cpp)          |                              -                               |
