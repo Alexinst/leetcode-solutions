@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (139/1126)
+## Links (140/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -55,6 +55,7 @@ Here is the table of links:
 | 0075  | sort colors                                                               | - | [here](./Java/0075_sort_colors.java) |
 | 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0083_remove_duplicates_from_sorted_list_II.java) |
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
+| 0086  | partition list                                                            | - | [here](./Java/0086_partition_list.java) |
 | 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
 | 0091  | decode ways                                                               | - | [here](./Java/0091_decode_ways.java) |
 | 0092  | reverse linked list II                                                    | - | [here](./Java/0092_reverse_linked_list_II.java) |
