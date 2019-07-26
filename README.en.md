@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (140/1126)
+## Links (141/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -71,6 +71,7 @@ Here is the table of links:
 | 0136  | single number                                                             | [here](./C\&C++/0136_single_number.cpp) | - |
 | 0141  | linked list cycle                                                         | [here](./C\&C++/0141_linked_list_cycle.cpp) | - |
 | 0142  | linked list cycle II                                                      | [here](./C\&C++/0142_linked_list_cycle_II.cpp) | - |
+| 0143  | reorder list                                                              | - | [here](./Java/0143_reorder_list.java) |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
 | 0147  | insertion sort list                                                       | - | [here](./Java/0147_insertion_sort_list.java) |
