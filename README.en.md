@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (145/1126)
+## Links (146/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -96,6 +96,7 @@ Here is the table of links:
 | 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
+| 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_a_linked_list.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
