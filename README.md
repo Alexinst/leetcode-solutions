@@ -151,7 +151,7 @@
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
-| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list.java)  |
+| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list~.java)  |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1030 | 距离顺序排列矩阵单元格                     |                              -                               |   [here](./Java/1030_matrix_cells_in_distance_order.java)    |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
