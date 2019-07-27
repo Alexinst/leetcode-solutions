@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (142/1126)
+## Links (145/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -52,6 +52,7 @@ Here is the table of links:
 | 0067  | add binary                                                                | [here](./C\&C++/0067_add_binary.cpp) | - |
 | 0069  | sqrt(x)                                                                   | [here](./C\&C++/0069_sqrt_of_x.cpp) | - |
 | 0070  | climbing stairs                                                           | - | [here](./Java/0070_climbing_stairs.java) |
+| 0071  | simplify path                                                             | - | [here](./Java/0071_simplify_path.java) |
 | 0075  | sort colors                                                               | - | [here](./Java/0075_sort_colors.java) |
 | 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0083_remove_duplicates_from_sorted_list_II.java) |
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
@@ -103,6 +104,7 @@ Here is the table of links:
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
 | 0303  | range sum query immutable                                                 | - | [here](./Java/0303_range_sum_query_immutable.java) |
+| 0328  | odd even linked list                                                      | - | [here](./Java/0328_odd_even_linked_list.java) |
 | 0344  | reverse string                                                            | [here](./C\&C++/0344_reverse_string.cpp) | - |
 | 0347  | top K frequent elements                                                   | [here](./C\&C++/0347_top_k_frequent_elements.cpp) | - |
 | 0349  | intersection of two arrays                                                | [here](./C\&C++/0349_intersection_of_two_arrays.cpp) | - |
@@ -151,6 +153,7 @@ Here is the table of links:
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
+| 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |

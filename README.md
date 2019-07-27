@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接（142/1126）
+## 链接 (145/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -50,6 +50,7 @@
 | 0067 | 二进制求和                                 |             [here](./C\&C++/0067_add_binary.cpp)             |                              -                               |
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
 | 0070 | 爬楼梯                                     |                              -                               |           [here](./Java/0070_climbing_stairs.java)           |
+| 0071 | 简化路径                                   |                              -                               |           [here](./Java/0071_simplify_path.java)             |
 | 0075 | 颜色分类                                   |                              -                               |             [here](./Java/0075_sort_colors.java)             |
 | 0082 | 删除排序链表中的重复元素 II                |                              -                               | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
@@ -101,6 +102,7 @@
 | 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
 | 0300 | 最长上升子序列                             |                              -                               |   [here](./Java/0300_longest_increasing_subsequence.java)    |
 | 0303 | 区域与检索-数组不可变                      |                              -                               |      [here](./Java/0303_range_sum_query_immutable.java)      |
+| 0328 | 奇偶链表                                   |                              -                               |         [here](./Java/0328_odd_even_linked_list.java)        |
 | 0344 | 反转字符串                                 |           [here](./C\&C++/0344_reverse_string.cpp)           |                              -                               |
 | 0347 | 前K个高频元素                              |      [here](./C\&C++/0347_top_k_frequent_elements.cpp)       |                              -                               |
 | 0349 | 两个数组的交集                             |     [here](./C\&C++/0349_intersection_of_two_arrays.cpp)     |                              -                               |
@@ -149,6 +151,7 @@
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
+| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list.java)  |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1030 | 距离顺序排列矩阵单元格                     |                              -                               |   [here](./Java/1030_matrix_cells_in_distance_order.java)    |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
