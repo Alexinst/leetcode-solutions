@@ -125,7 +125,7 @@ Here is the table of links:
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
-| 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | - |
+| 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | [here](./Java/0622_design_circular_queue.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |

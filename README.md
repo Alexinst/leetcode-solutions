@@ -123,7 +123,7 @@
 | 0589 | N叉树前序遍历                              |                              -                               |    [here](./Java/0589_N-ary_tree_preorder_traversal.java)    |
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
-| 0622 | 设计循环队列                               |       [here](./C\&C++/0622_design_circular_queue.cpp)        |                              -                               |
+| 0622 | 设计循环队列                               |       [here](./C\&C++/0622_design_circular_queue.cpp)        |        [here](./Java/0622_design_circular_queue.java)        |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
 | 0658 | 找到 K 个最接近的元素                      |                              -                               |       [here](./Java/0658_find_K_colsest_elemnts.java)        |
 | 0677 | 键值映射                                   |                              -                               |            [here](./Java/0677_map_sum_pairs.java)            |
