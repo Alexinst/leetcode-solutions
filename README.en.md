@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (147/1126)
+## Links (152/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -126,9 +126,11 @@ Here is the table of links:
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
 | 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | [here](./Java/0622_design_circular_queue.java) |
+| 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
+| 0682  | baseball game                                                             | - | [here](./Java/0682_baseball_game.java) |
 | 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
@@ -156,6 +158,7 @@ Here is the table of links:
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list~.java) |
+| 1021  | remove outermost parentheses                                              | - | [here](./Java/1021_remove_outermost_parentheses.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |

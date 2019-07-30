@@ -124,9 +124,11 @@
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
 | 0622 | 设计循环队列                               |       [here](./C\&C++/0622_design_circular_queue.cpp)        |        [here](./Java/0622_design_circular_queue.java)        |
+| 0641 | 设计循环双端队列                           |                              -                               |            [here](./Java/0641_design_circular_deque.java)    |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
 | 0658 | 找到 K 个最接近的元素                      |                              -                               |       [here](./Java/0658_find_K_colsest_elemnts.java)        |
 | 0677 | 键值映射                                   |                              -                               |            [here](./Java/0677_map_sum_pairs.java)            |
+| 0682 | 棒球比赛                                   |                              -                               |        [here](./Java/0682_baseball_game.java)                |
 | 0692 | 前K个高频单词                              |                              -                               |        [here](./Java/0692_top_k_frequent_words.java)         |
 | 0700 | 二叉搜索树的搜索                           |                              -                               |   [here](./Java/0700_search_in_a_binary_search_tree.java)    |
 | 0701 | 二叉搜索树的插入操作                       |                              -                               |   [here](./Java/0701_insert_in_a_binary_search_tree.java)    |
@@ -153,7 +155,8 @@
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
-| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list~.java)  |
+| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list~.java) |
+| 1021 | 删除最外层的括号                           |                              -                               |   [here](./Java/1021_remove_outermost_parentheses.java)      |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1030 | 距离顺序排列矩阵单元格                     |                              -                               |   [here](./Java/1030_matrix_cells_in_distance_order.java)    |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
