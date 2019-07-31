@@ -162,6 +162,7 @@ Here is the table of links:
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
+| 1047  | remove all adjacent duplicates in string                                  | - | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
 | 1122  | relative sort array                                                       | - | [here](./Java/1122_relative_sort_array.java) |
 

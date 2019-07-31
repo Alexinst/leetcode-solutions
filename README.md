@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (147/1126）
+## 链接 (152/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -50,7 +50,7 @@
 | 0067 | 二进制求和                                 |             [here](./C\&C++/0067_add_binary.cpp)             |                              -                               |
 | 0069 | x的平方根                                  |             [here](./C\&C++/0069_sqrt_of_x.cpp)              |                              -                               |
 | 0070 | 爬楼梯                                     |                              -                               |           [here](./Java/0070_climbing_stairs.java)           |
-| 0071 | 简化路径                                   |                              -                               |           [here](./Java/0071_simplify_path.java)             |
+| 0071 | 简化路径                                   |                              -                               |            [here](./Java/0071_simplify_path.java)            |
 | 0075 | 颜色分类                                   |                              -                               |             [here](./Java/0075_sort_colors.java)             |
 | 0082 | 删除排序链表中的重复元素 II                |                              -                               | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
@@ -70,7 +70,7 @@
 | 0136 | 只出现一次的数字                           |           [here](./C\&C++/0136_single_number.cpp)            |                              -                               |
 | 0141 | 环形链表                                   |         [here](./C\&C++/0141_linked_list_cycle.cpp)          |                              -                               |
 | 0142 | 环形链表 II                                |        [here](./C\&C++/0142_linked_list_cycle_II.cpp)        |                              -                               |
-| 0143 | 重排链表                                   |                              -                               |   [here](./Java/0143_reorder_list.java)    |
+| 0143 | 重排链表                                   |                              -                               |            [here](./Java/0143_reorder_list.java)             |
 | 0144 | 二叉树的前序遍历                           |                              -                               |   [here](./Java/0144_binary_tree_preorder_traversal.java)    |
 | 0145 | 二叉树的后序遍历                           |                              -                               |   [here](./Java/0145_binary_tree_postorder_traversal.java)   |
 | 0147 | 对链表进行插入排序                         |                              -                               |         [here](./Java/0147_insertion_sort_list.java)         |
@@ -94,7 +94,7 @@
 | 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
 | 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
-| 0225 |  用队列实现栈                              |                              -                               |    [here](./Java/0225_implement_stack_using_queues.java)     |
+| 0225 | 用队列实现栈                               |                              -                               |    [here](./Java/0225_implement_stack_using_queues.java)     |
 | 0234 | 回文链表                                   |                              -                               |       [here](./Java/0234_palindrome_linked_list.java)        |
 | 0237 | 删除链表中的节点                           |                              -                               |      [here](./Java/0237_delete_node_a_linked_list.java)      |
 | 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
@@ -103,7 +103,7 @@
 | 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
 | 0300 | 最长上升子序列                             |                              -                               |   [here](./Java/0300_longest_increasing_subsequence.java)    |
 | 0303 | 区域与检索-数组不可变                      |                              -                               |      [here](./Java/0303_range_sum_query_immutable.java)      |
-| 0328 | 奇偶链表                                   |                              -                               |         [here](./Java/0328_odd_even_linked_list.java)        |
+| 0328 | 奇偶链表                                   |                              -                               |        [here](./Java/0328_odd_even_linked_list.java)         |
 | 0344 | 反转字符串                                 |           [here](./C\&C++/0344_reverse_string.cpp)           |                              -                               |
 | 0347 | 前K个高频元素                              |      [here](./C\&C++/0347_top_k_frequent_elements.cpp)       |                              -                               |
 | 0349 | 两个数组的交集                             |     [here](./C\&C++/0349_intersection_of_two_arrays.cpp)     |                              -                               |
@@ -124,11 +124,11 @@
 | 0590 | N叉树后序遍历                              |                              -                               |   [here](./Java/0590_N-ary_tree_postorder_traversal.java)    |
 | 0599 | 两个列表的最小索引总和                     |   [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp)   |                              -                               |
 | 0622 | 设计循环队列                               |       [here](./C\&C++/0622_design_circular_queue.cpp)        |        [here](./Java/0622_design_circular_queue.java)        |
-| 0641 | 设计循环双端队列                           |                              -                               |            [here](./Java/0641_design_circular_deque.java)    |
+| 0641 | 设计循环双端队列                           |                              -                               |        [here](./Java/0641_design_circular_deque.java)        |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
 | 0658 | 找到 K 个最接近的元素                      |                              -                               |       [here](./Java/0658_find_K_colsest_elemnts.java)        |
 | 0677 | 键值映射                                   |                              -                               |            [here](./Java/0677_map_sum_pairs.java)            |
-| 0682 | 棒球比赛                                   |                              -                               |        [here](./Java/0682_baseball_game.java)                |
+| 0682 | 棒球比赛                                   |                              -                               |            [here](./Java/0682_baseball_game.java)            |
 | 0692 | 前K个高频单词                              |                              -                               |        [here](./Java/0692_top_k_frequent_words.java)         |
 | 0700 | 二叉搜索树的搜索                           |                              -                               |   [here](./Java/0700_search_in_a_binary_search_tree.java)    |
 | 0701 | 二叉搜索树的插入操作                       |                              -                               |   [here](./Java/0701_insert_in_a_binary_search_tree.java)    |
@@ -143,7 +143,7 @@
 | 0747 | 至少是其他数字两倍的最大数                 | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) |                              -                               |
 | 0767 | 重构字符串                                 |                              -                               |          [here](./Java/0767_reorganize_string.java)          |
 | 0771 | 宝石和石头                                 |         [here](./C\&C++/0771_jewels_and_stones.cpp)          |                              -                               |
-| 0817 | 链表组件                                   |                              -                               |        [here](./Java/0817_linked_list_components.java)       |
+| 0817 | 链表组件                                   |                              -                               |       [here](./Java/0817_linked_list_components.java)        |
 | 0853 | 车队                                       |                              -                               |              [here](./Java/0853_car_fleet.java)              |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
 | 0874 | 模拟行走机器人                             |                              -                               |      [here](./Java/0874_walking_robot_simulation.java)       |
@@ -155,10 +155,11 @@
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
-| 1019 | 链表中的下一个更大节点                     |                              -                               |   [here](./Java/1019_next_greater_node_in_linked_list~.java) |
-| 1021 | 删除最外层的括号                           |                              -                               |   [here](./Java/1021_remove_outermost_parentheses.java)      |
+| 1019 | 链表中的下一个更大节点                     |                              -                               |  [here](./Java/1019_next_greater_node_in_linked_list~.java)  |
+| 1021 | 删除最外层的括号                           |                              -                               |    [here](./Java/1021_remove_outermost_parentheses.java)     |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1030 | 距离顺序排列矩阵单元格                     |                              -                               |   [here](./Java/1030_matrix_cells_in_distance_order.java)    |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
+| 1047 | 删除字符串中的所有相邻重复项               |                              -                               | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054 | 距离相等的条形码                           |                              -                               |          [here](./Java/1054_distant_barcodes.java)           |
 | 1122 | 数组的相对排序                             |                              -                               |         [here](./Java/1122_relative_sort_array.java)         |
