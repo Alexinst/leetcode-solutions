@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (152/1126)
+## Links (153/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -114,6 +114,7 @@ Here is the table of links:
 | 0374  | guess number higher or lower                                              | [here](./C\&C++/0374_guess_number_higher_or_lower.cpp) | - |
 | 0380  | insert delete getrandom O(1)                                              | [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
+| 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
