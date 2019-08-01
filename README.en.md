@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (152/1126)
+## Links (154/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -86,6 +86,7 @@ Here is the table of links:
 | 0167  | two sum II - input sorted array                                           | [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp) | - |
 | 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
 | 0179  | largest number                                                            | - | [here](./Java/0179_largest_number.java) |
+| 0189  | rotate array                                                              | - | [here](./Java/0189_rotate_array.java) |
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
 | 0202  | happy number                                                              | [here](./C\&C++/0202_happy_number.cpp) | - |
 | 0203  | remove linked list elements                                               | - | [here](./Java/0203_remove_linked_list_elements.java) |
