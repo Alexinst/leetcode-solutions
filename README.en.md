@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (154/1126)
+## Links (156/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -118,6 +118,7 @@ Here is the table of links:
 | 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
+| 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
@@ -157,6 +158,7 @@ Here is the table of links:
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0933  | number of recent calls                                                    | - | [here](./Java/0933_number_of_recent_calls.java) |
 | 0944  | delete columns to make sorted                                             | - | [here](./Java/0944_delete_columns_to_make_sorted.java) |
+| 0946  | valide stack sequences                                                    | - | [here](./Java/0946_valide_stack_sequences.java) |
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |

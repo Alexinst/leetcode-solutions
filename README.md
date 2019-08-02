@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (154/1126）
+## 链接 (156/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -114,8 +114,9 @@
 | 0374 | 猜数字大小                                 |    [here](./C\&C++/0374_guess_number_higher_or_lower.cpp)    |                              -                               |
 | 0380 | 常数时间插入、删除和获取随机元素 O(1)      |     [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp)     |                              -                               |
 | 0387 | 字符串中的第一个唯一字符                   | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) |                              -                               |
-| 0394 | 字符串解码                                 |                              -                               |  [here](./Java/0394_decode_string.java)   |
+| 0394 | 字符串解码                                 |                              -                               |             [here](./Java/0394_decode_string.java)           |
 | 0429 | N叉树层序遍历                              |                              -                               |  [here](./Java/0429_N-ary_tree_level_order_traversal.java)   |
+| 0441 | 排列硬币                                   |                              -                               |         [here](./Java/0441_arranging_coins.java)             |
 | 0445 | 两数相加 II                                |                              -                               |         [here](./Java/0445_add_two_numbers_II.java)          |
 | 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst~.java)        |
 | 0455 | 分发饼干                                   |                              -                               |           [here](./Java/0455_assign_cookies.java)            |
@@ -155,6 +156,7 @@
 | 0922 | 按奇偶排序数组 II                          |                              -                               |       [here](./Java/0922_sort_array_by_parity_II.java)       |
 | 0933 | 最近的请求次数                             |                              -                               |       [here](./Java/0933_number_of_recent_calls.java)        |
 | 0944 | 删列造序                                   |                              -                               |    [here](./Java/0944_delete_columns_to_make_sorted.java)    |
+| 0946 | 验证栈序列                                 |                              -                               |       [here](./Java/0946_valide_stack_sequences.java)        |
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
