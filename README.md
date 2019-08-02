@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (153/1126）
+## 链接 (154/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -84,6 +84,7 @@
 | 0167 | 两数之和 II - 输入有序数组                 |   [here](./C\&C++/0167_two_sum_II_input_sorted_array.cpp)    |                              -                               |
 | 0173 | 二叉搜索树迭代器                           |                              -                               |     [here](./Java/0173_binary_search_tree_iterator.java)     |
 | 0179 | 最大数                                     |                              -                               |           [here](./Java/0179_largest_number.java)            |
+| 0189 | 旋转数组                                   |                              -                               |           [here](./Java/0189_rotate_array.java)              |
 | 0198 | 打家劫舍                                   |                              -                               |            [here](./Java/0198_house_robber.java)             |
 | 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
 | 0203 | 移除链表元素                               |                              -                               |     [here](./Java/0203_remove_linked_list_elements.java)     |
@@ -95,6 +96,7 @@
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
 | 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
 | 0225 | 用队列实现栈                               |                              -                               |    [here](./Java/0225_implement_stack_using_queues.java)     |
+| 0232 | 用栈实现队列                               |                              -                               |    [here](./Java/0232_implement_queue_using_stacks.java)     |
 | 0234 | 回文链表                                   |                              -                               |       [here](./Java/0234_palindrome_linked_list.java)        |
 | 0237 | 删除链表中的节点                           |                              -                               |      [here](./Java/0237_delete_node_a_linked_list.java)      |
 | 0242 | 有效的字母异位词                           |                              -                               |            [here](./Java/0242_valid_anagram.java)            |
