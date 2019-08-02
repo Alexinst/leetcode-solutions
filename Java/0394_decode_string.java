@@ -106,3 +106,25 @@ class Solution1 {
         return res.toString();
     }
 }
+
+class Solution2 {
+    public void rotate(int[] nums, int k) {
+        int len = nums.length;
+        k = k % len;
+        int count = 0;
+        
+        for (int start = 0; count < len; start++) {
+            int cur = start;
+            int prevVal = nums[cur];
+            do {
+                int next = (cur + k) % len;
+                int temp = nums[next];
+                nums[next] = prevVal;
+                
+                cur = next;
+                prevVal = temp;
+                count++;
+            } while (start != cur);
+        }
+    }
+}

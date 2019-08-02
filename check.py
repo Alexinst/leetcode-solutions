@@ -13,9 +13,9 @@ sns_file = [re.match(r'\d+', filename)[0] for filename in cpp_files]
 sns_file += [re.match(r'\d+', filename)[0] for filename in java_files]
 sns_file = set(sns_file)
 
-file = 'README.md'
+readme = 'README.md'
 sns_readme = []
-with open(file, encoding='utf-8') as rfile:
+with open(readme, encoding='utf-8') as rfile:
     for line in rfile.readlines():
         if line[0] == '|':
             try:
@@ -26,7 +26,7 @@ with open(file, encoding='utf-8') as rfile:
 
 sns_readme = set(sns_readme)
 forgot = []
-for serial_num in sns_file:
-    if serial_num not in sns_readme:
-        forgot.append(serial_num)
+for sn in sns_file:
+    if sn not in sns_readme:
+        forgot.append(sn)
 print(forgot)
