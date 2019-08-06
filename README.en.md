@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (156/1126)
+## Links (157/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -107,6 +107,7 @@ Here is the table of links:
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
 | 0303  | range sum query immutable                                                 | - | [here](./Java/0303_range_sum_query_immutable.java) |
+| 0326  | power of three                                                            | - | [here](./Java/0326_power_of_three.java) |
 | 0328  | odd even linked list                                                      | - | [here](./Java/0328_odd_even_linked_list.java) |
 | 0344  | reverse string                                                            | [here](./C\&C++/0344_reverse_string.cpp) | - |
 | 0347  | top K frequent elements                                                   | [here](./C\&C++/0347_top_k_frequent_elements.cpp) | - |

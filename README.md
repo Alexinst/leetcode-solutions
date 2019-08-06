@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (156/1126）
+## 链接 (157/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -105,6 +105,7 @@
 | 0287 | 寻找重复数                                 |     [here](./C\&C++/0287_find_the_duplicate_number.cpp)      |                              -                               |
 | 0300 | 最长上升子序列                             |                              -                               |   [here](./Java/0300_longest_increasing_subsequence.java)    |
 | 0303 | 区域与检索-数组不可变                      |                              -                               |      [here](./Java/0303_range_sum_query_immutable.java)      |
+| 0326 | 3的幂                                      |                              -                               |        [here](./Java/0326_power_of_three.java)         |
 | 0328 | 奇偶链表                                   |                              -                               |        [here](./Java/0328_odd_even_linked_list.java)         |
 | 0344 | 反转字符串                                 |           [here](./C\&C++/0344_reverse_string.cpp)           |                              -                               |
 | 0347 | 前K个高频元素                              |      [here](./C\&C++/0347_top_k_frequent_elements.cpp)       |                              -                               |
