@@ -46,19 +46,60 @@ Follow up:
 Could you do it without using any loop / recursion?
 */
 
-class MySolution {
+class MySolution1 {
     public boolean isPowerOfThree(int n) {
-        if (n < 3) {
-            if (n == 1)
+        while (n > 3) {
+            int quotient = n / 3;
+            if (quotient * 3 != n)
+                return false;    
+            n = (int) quotient;
+        }
+        
+        if (n == 1 || n == 3)
+            return true;
+        else
+            return false;
+    }
+}
+
+class MySolution2 {
+    public boolean isPowerOfThree(int n) {
+        if (n <= 3) {
+            if (n == 1 || n == 3)
                 return true;
             else
                 return false;
         }
-        
-        double quotient = n / 3.0;
-        if (quotient > Math.floor(quotient))
+
+        int quotient = n / 3;
+        if (quotient * 3 != n)
             return false;
-        
-        return isPowerOfThree((int) quotient);
+
+        return isPowerOfThree(quotient);
+    }
+}
+
+class Solution1 {
+    public boolean isPowerOfThree(int n) {
+        return n > 0 && 1162261467 % n == 0;
+    }
+}
+
+class Solution2 {
+    public boolean isPowerOfThree(int n) {
+        if (n <= 0){
+            return false;
+        }
+        if(n == 1){
+            return true;
+        }
+        while(n > 1){
+            if (n % 3 == 0){
+                n /= 3;
+            }else{
+                return false;
+            }
+        }
+        return true;
     }
 }
