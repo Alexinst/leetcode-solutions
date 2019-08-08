@@ -1,32 +1,48 @@
 """
 Check if any code files haven't been recorded in README
-and print their serial numbers out.
+and print their numbers out.
 """
 
 import os
 import re
 
-# sns = serial numbers
+
+all = 1126
 cpp_files = os.listdir('C&C++')
 java_files = os.listdir('Java')
-sns_file = [re.match(r'\d+', filename)[0] for filename in cpp_files]
-sns_file += [re.match(r'\d+', filename)[0] for filename in java_files]
-sns_file = set(sns_file)
+nums_file = [re.match(r'\d+', filename)[0] for filename in cpp_files]
+nums_file += [re.match(r'\d+', filename)[0] for filename in java_files]
+nums_file = [int(nums) for nums in set(nums_file)]
+print("numbers: %d" % len(nums_file))
 
-readme = 'README.md'
-sns_readme = []
-with open(readme, encoding='utf-8') as rfile:
-    for line in rfile.readlines():
-        if line[0] == '|':
-            try:
-                num = re.findall(r'\d+', line)[0]
-                sns_readme.append(num)
-            except IndexError:
-                pass
+tmp = [0] * all
+for num in nums_file:
+    tmp[num - 1] = 1
+nums_file = tmp
 
-sns_readme = set(sns_readme)
-forgot = []
-for sn in sns_file:
-    if sn not in sns_readme:
-        forgot.append(sn)
-print(forgot)
+
+def check(file):
+    nums_readme = []
+    with open(file, encoding='utf-8') as rfile:
+        for line in rfile.readlines():
+            if line[0] == '|':
+                try:
+                    num = re.findall(r'\d+', line)[0]
+                    nums_readme.append(num)
+                except IndexError:
+                    pass
+
+    nums_readme = [int(nums) for nums in set(nums_readme)]
+    forgot = []
+    for num in nums_readme:
+        if nums_file[num - 1] == 0:
+            forgot.append(num)
+    print("%s:" % os.path.basename(file), sorted(forgot))
+
+
+if __name__ == "__main__":
+    root_dir = os.getcwd()
+    readme_cn = os.path.join(root_dir, 'README.md')
+    readme_en = os.path.join(root_dir, 'README.en.md')
+    check(readme_cn)
+    check(readme_en)

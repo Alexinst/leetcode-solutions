@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (157/1126)
+## Links (163/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -62,9 +62,12 @@ Here is the table of links:
 | 0092  | reverse linked list II                                                    | - | [here](./Java/0092_reverse_linked_list_II.java) |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0098  | validate binary search tree                                               | - | [here](./Java/0098_validate_binary_search_tree.java) |
+| 0100  | same tree                                                                 | - | [here](./Java/0100_same_tree.java) |
 | 0101  | symmetric tree                                                            | - | [here](./Java/0101_symmetric_tree.java) |
 | 0102  | level order traversal of a binary tree                                    | - | [here](./Java/0102_binary_tree_level_order_traversal.java) |
 | 0104  | maximum depth of a binary tree                                            | - | [here](./Java/0104_maximum_depth_of_binary_tree.java) |
+| 0107  | binary tree level order traversal II                                      | - | [here](./Java/0107_binary_tree_level_order_traversal_II.java) |
+| 0111  | minimum depth of binary tree                                              | - | [here](./Java/0111_minimum_depth_of_binary_tree.java) |
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0121  | the best to buy and sell stock                                            | - | [here](./Java/0121_best_time_to_buy_and_sell_stock.java) |
@@ -102,6 +105,7 @@ Here is the table of links:
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_a_linked_list.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
+| 0257  | binary tree paths                                                         | - | [here](./Java/0257_binary_tree_paths.java) |
 | 0274  | H index                                                                   | - | [here](./Java/0274_h_index.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
 | 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
@@ -118,6 +122,7 @@ Here is the table of links:
 | 0380  | insert delete getrandom O(1)                                              | [here](./C\&C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
+| 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
 | 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
@@ -130,6 +135,7 @@ Here is the table of links:
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
+| 0617  | merge two binary trees                                                    | - | [here](./Java/0617_merge_two_binary_trees.java) |
 | 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | [here](./Java/0622_design_circular_queue.java) |
 | 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
