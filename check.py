@@ -6,19 +6,12 @@ and print their numbers out.
 import os
 import re
 
-
 all = 1126
 cpp_files = os.listdir('C&C++')
 java_files = os.listdir('Java')
-nums_file = [re.match(r'\d+', filename)[0] for filename in cpp_files]
-nums_file += [re.match(r'\d+', filename)[0] for filename in java_files]
-nums_file = [int(nums) for nums in set(nums_file)]
+nums_file = [int(re.match(r'\d+', filename)[0]) for filename in cpp_files]
+nums_file += [int(re.match(r'\d+', filename)[0]) for filename in java_files]
 print("numbers: %d" % len(nums_file))
-
-tmp = [0] * all
-for num in nums_file:
-    tmp[num - 1] = 1
-nums_file = tmp
 
 
 def check(file):
@@ -28,16 +21,21 @@ def check(file):
             if line[0] == '|':
                 try:
                     num = re.findall(r'\d+', line)[0]
-                    nums_readme.append(num)
+                    nums_readme.append(int(num))
                 except IndexError:
                     pass
 
-    nums_readme = [int(nums) for nums in set(nums_readme)]
-    forgot = []
+    nums_readme = sorted(nums_readme)
+    tmp = [0] * all
     for num in nums_readme:
-        if nums_file[num - 1] == 0:
+        tmp[num - 1] = 1
+    nums_readme = tmp
+
+    forgot = []
+    for num in nums_file:
+        if nums_readme[num - 1] == 0:
             forgot.append(num)
-    print("%s:" % os.path.basename(file), sorted(forgot))
+    print("%s: \t" % os.path.basename(file), forgot)
 
 
 if __name__ == "__main__":
