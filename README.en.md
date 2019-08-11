@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (163/1126)
+## Links (178/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -67,6 +67,7 @@ Here is the table of links:
 | 0102  | level order traversal of a binary tree                                    | - | [here](./Java/0102_binary_tree_level_order_traversal.java) |
 | 0104  | maximum depth of a binary tree                                            | - | [here](./Java/0104_maximum_depth_of_binary_tree.java) |
 | 0107  | binary tree level order traversal II                                      | - | [here](./Java/0107_binary_tree_level_order_traversal_II.java) |
+| 0108  | convert sorted array to binary search tree                                  | - | [here](./Java/0108_convert_sorted_array_to_binary_search_tree.java) |
 | 0111  | minimum depth of binary tree                                              | - | [here](./Java/0111_minimum_depth_of_binary_tree.java) |
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
@@ -101,6 +102,7 @@ Here is the table of links:
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
 | 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
+| 0226  | invert binary tree                                                        | - | [here](./Java/0226_convert_binary_tree.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_a_linked_list.java) |
@@ -123,6 +125,7 @@ Here is the table of links:
 | 0387  | first unique character in a string                                        | [here](./C\&C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
 | 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
+| 0437  | path sum III                                                              | - | [here](./Java/0437_path_sum_III.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
 | 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
@@ -131,15 +134,24 @@ Here is the table of links:
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
 | 0509  | fibonacci number                                                          | - | [here](./Java/0509_fibonacci_number.java) |
 | 0524  | longest word in dictionary throught deleting                              | - | [here](./Java/0524_longest_word_in_dictionary_through_deleting.java) |
+| 0530  | minimum absolute difference in bst                                        | - | [here](./Java/0530_minimum_absolute_difference_in_bst.java) |
+| 0538  | convert bst to greater tree                                               | - | [here](./Java/0538_convert_bst_to_greater_tree.java) |
+| 0543  | diameter of binary tree                                                   | - | [here](./Java/0543_diameter_of_binary_tree.java) |
+| 0559  | maximum depth of N ary tree                                               | - | [here](./Java/0559_maximum_depth_of_n_ary_tree.java) |
 | 0561  | array partition I                                                         | [here](./C\&C++/0561_array_partition_I.cpp) | - |
+| 0563  | binary tree tilt                                                          | - | [here](./Java/0563_binary_tree_tilt.java) |
+| 0572  | subtree of another tree                                                   | - | [here](./Java/0572_subtree_of_another_tree.java) |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C\&C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
+| 0606  | construct string from binary tree                                         | - | [here](./Java/0606_construct_string_from_binary_tree.java) |
 | 0617  | merge two binary trees                                                    | - | [here](./Java/0617_merge_two_binary_trees.java) |
 | 0622  | design a circular queque                                                  | [here](./C\&C++/0622_design_circular_queue.cpp) | [here](./Java/0622_design_circular_queue.java) |
+| 0637  | average of levels in binary tree                                          | - | [here](./Java/0637_average_of_levels_in_binary_tree.java) |
 | 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
+| 0671  | second minimum node in a binary tree                                      | - | [here](./Java/0671_second_minimum_node_in_a_binary_tree.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
 | 0682  | baseball game                                                             | - | [here](./Java/0682_baseball_game.java) |
 | 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
@@ -156,6 +168,7 @@ Here is the table of links:
 | 0747  | the largest number at least twice of others                               | [here](./C\&C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
 | 0767  | reorganize string                                                         | - | [here](./Java/0767_reorganize_string.java) |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
+| 0783  | minimum distance between bst nodes                                        | - | [here](./Java/0783_minimum_distance_between_bst_nodes.java) |
 | 0817  | linked list components                                                    | - | [here](./Java/0817_linked_list_components.java) |
 | 0853  | car fleet                                                                 | - | [here](./Java/0853_car_fleet.java) |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
