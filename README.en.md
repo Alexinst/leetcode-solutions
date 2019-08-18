@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (178/1126)
+## Links (183/1126)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -151,9 +151,11 @@ Here is the table of links:
 | 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
+| 0669  | trim a binary search tree                                                 | - | [here](./Java/0669_trim_a_binary_search_tree.java) |
 | 0671  | second minimum node in a binary tree                                      | - | [here](./Java/0671_second_minimum_node_in_a_binary_tree.java) |
 | 0677  | map sum pairs                                                             | - | [here](./Java/0677_map_sum_pairs.java) |
 | 0682  | baseball game                                                             | - | [here](./Java/0682_baseball_game.java) |
+| 0687  | longest univalue path                                                     | - | [here](./Java/0687_longest_univalue_path.java) |
 | 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
 | 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
@@ -169,21 +171,26 @@ Here is the table of links:
 | 0767  | reorganize string                                                         | - | [here](./Java/0767_reorganize_string.java) |
 | 0771  | jewels and stones                                                         | [here](./C\&C++/0771_jewels_and_stones.cpp) | - |
 | 0783  | minimum distance between bst nodes                                        | - | [here](./Java/0783_minimum_distance_between_bst_nodes.java) |
+| 0814  | binary tree pruning                                                       | - | [here](./Java/0814_binary_tree_pruning.java) |
 | 0817  | linked list components                                                    | - | [here](./Java/0817_linked_list_components.java) |
 | 0853  | car fleet                                                                 | - | [here](./Java/0853_car_fleet.java) |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
+| 0872  | leaf similar trees                                                        | - | [here](./Java/0872_leaf_similar_trees.java) |
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |
 | 0876  | middle of the linked list                                                 | - | [here](./Java/0876_middle_of_the_linked_list.java) |
 | 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0933  | number of recent calls                                                    | - | [here](./Java/0933_number_of_recent_calls.java) |
+| 0938  | range sum of bst                                                          | - | [here](./Java/0938_range_sum_of_bst.java) |
 | 0944  | delete columns to make sorted                                             | - | [here](./Java/0944_delete_columns_to_make_sorted.java) |
 | 0946  | valide stack sequences                                                    | - | [here](./Java/0946_valide_stack_sequences.java) |
+| 0965  | univalued binary tree                                                     | - | [here](./Java/0965_univalued_binary_tree.java) |
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list~.java) |
 | 1021  | remove outermost parentheses                                              | - | [here](./Java/1021_remove_outermost_parentheses.java) |
+| 1022  | sum of root to leaf binary numbers                                        | - | [here](./Java/1022_sum_of_root_to_leaf_binary_numbers.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |

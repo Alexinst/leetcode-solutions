@@ -8,7 +8,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (178/1126）
+## 链接 (183/1126）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -149,9 +149,11 @@
 | 0641 | 设计循环双端队列                           |                              -                               |        [here](./Java/0641_design_circular_deque.java)        |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
 | 0658 | 找到 K 个最接近的元素                      |                              -                               |       [here](./Java/0658_find_K_colsest_elemnts.java)        |
+| 0669 | 修剪二叉搜索树                             |                              -                               |      [here](./Java/0669_trim_a_binary_search_tree.java)      |
 | 0671 | 二叉树中第二小的节点                       |                              -                               | [here](./Java/0671_second_minimum_node_in_a_binary_tree.java) |
 | 0677 | 键值映射                                   |                              -                               |            [here](./Java/0677_map_sum_pairs.java)            |
 | 0682 | 棒球比赛                                   |                              -                               |            [here](./Java/0682_baseball_game.java)            |
+| 0687 | 最长同值路径                               |                              -                               |        [here](./Java/0687_longest_univalue_path.java)        |
 | 0692 | 前K个高频单词                              |                              -                               |        [here](./Java/0692_top_k_frequent_words.java)         |
 | 0700 | 二叉搜索树的搜索                           |                              -                               |   [here](./Java/0700_search_in_a_binary_search_tree.java)    |
 | 0701 | 二叉搜索树的插入操作                       |                              -                               |   [here](./Java/0701_insert_in_a_binary_search_tree.java)    |
@@ -167,21 +169,26 @@
 | 0767 | 重构字符串                                 |                              -                               |          [here](./Java/0767_reorganize_string.java)          |
 | 0771 | 宝石和石头                                 |         [here](./C\&C++/0771_jewels_and_stones.cpp)          |                              -                               |
 | 0783 | 二叉搜索树结点最小距离                     |                              -                               | [here](./Java/0783_minimum_distance_between_bst_nodes.java)  |
+| 0814 | 二叉树剪枝                                 |                              -                               |         [here](./Java/0814_binary_tree_pruning.java)         |
 | 0817 | 链表组件                                   |                              -                               |       [here](./Java/0817_linked_list_components.java)        |
 | 0853 | 车队                                       |                              -                               |              [here](./Java/0853_car_fleet.java)              |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
+| 0872 | 叶子相似的树                               |                              -                               |         [here](./Java/0872_leaf_similar_trees.java)          |
 | 0874 | 模拟行走机器人                             |                              -                               |      [here](./Java/0874_walking_robot_simulation.java)       |
 | 0876 | 链表的中间结点                             |                              -                               |      [here](./Java/0876_middle_of_the_linked_list.java)      |
 | 0881 | 救生挺                                     |                              -                               |        [here](./Java/0881_boats_to_save_people.java)         |
 | 0922 | 按奇偶排序数组 II                          |                              -                               |       [here](./Java/0922_sort_array_by_parity_II.java)       |
 | 0933 | 最近的请求次数                             |                              -                               |       [here](./Java/0933_number_of_recent_calls.java)        |
+| 0938 | 二叉搜索树的范围和                         |                              -                               |          [here](./Java/0938_range_sum_of_bst.java)           |
 | 0944 | 删列造序                                   |                              -                               |    [here](./Java/0944_delete_columns_to_make_sorted.java)    |
 | 0946 | 验证栈序列                                 |                              -                               |       [here](./Java/0946_valide_stack_sequences.java)        |
+| 0965 | 单值二叉树                                 |                              -                               |        [here](./Java/0965_univalued_binary_tree.java)        |
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1019 | 链表中的下一个更大节点                     |                              -                               |  [here](./Java/1019_next_greater_node_in_linked_list~.java)  |
 | 1021 | 删除最外层的括号                           |                              -                               |    [here](./Java/1021_remove_outermost_parentheses.java)     |
+| 1022 | 从根到叶的二进制数之和                     |                              -                               | [here](./Java/1022_sum_of_root_to_leaf_binary_numbers.java)  |
 | 1029 | 两地调度                                   |                              -                               |         [here](./Java/1029_two_city_scheduling.java)         |
 | 1030 | 距离顺序排列矩阵单元格                     |                              -                               |   [here](./Java/1030_matrix_cells_in_distance_order.java)    |
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
