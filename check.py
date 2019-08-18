@@ -11,6 +11,7 @@ cpp_files = os.listdir('C&C++')
 java_files = os.listdir('Java')
 nums_file = [int(re.match(r'\d+', filename)[0]) for filename in cpp_files]
 nums_file += [int(re.match(r'\d+', filename)[0]) for filename in java_files]
+nums_file = set(nums_file)
 print("numbers: %d" % len(nums_file))
 
 
