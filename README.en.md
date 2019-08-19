@@ -54,7 +54,7 @@ Here is the table of links:
 | 0070  | climbing stairs                                                           | - | [here](./Java/0070_climbing_stairs.java) |
 | 0071  | simplify path                                                             | - | [here](./Java/0071_simplify_path.java) |
 | 0075  | sort colors                                                               | - | [here](./Java/0075_sort_colors.java) |
-| 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0083_remove_duplicates_from_sorted_list_II.java) |
+| 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
 | 0086  | partition list                                                            | - | [here](./Java/0086_partition_list.java) |
 | 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
@@ -88,7 +88,7 @@ Here is the table of links:
 | 0147  | insertion sort list                                                       | - | [here](./Java/0147_insertion_sort_list.java) |
 | 0148  | sort list ( nlog(n) )                                                       | - | [here](./Java/0148_sort_list.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C++/0150_evaluate_reverse_polish_notation.cpp) | - |
-| 0152  | maximum product of subarrays                                              | - | [here](./Java/0152_maximum_product_sbuarray.java) |
+| 0152  | maximum product of subarrays                                              | - | [here](./Java/0152_maximum_product_subarray.java) |
 | 0153  | find minimum in rotated sorted array                                      | - | [here](./Java/0153_find_minimum_in_rotated_sorted_array.java) |
 | 0155  | minimum stack                                                             | [here](./C++/0155_min_stack.cpp) | - |
 | 0160  | intersion of two linked lists	                                            | [here](./C++/0160_intersection_of_two_linked_lists.cpp) | - |
@@ -113,7 +113,7 @@ Here is the table of links:
 | 0226  | invert binary tree                                                        | - | [here](./Java/0226_invert_binary_tree.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
-| 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_a_linked_list.java) |
+| 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_in_a_linked_list.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
 | 0257  | binary tree paths                                                         | - | [here](./Java/0257_binary_tree_paths.java) |
 | 0274  | H index                                                                   | - | [here](./Java/0274_h_index.java) |
