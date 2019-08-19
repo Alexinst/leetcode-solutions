@@ -6,7 +6,7 @@ and print their numbers out.
 import os
 import re
 
-all = 1126
+all = 1152
 cpp_files = os.listdir('C&C++')
 java_files = os.listdir('Java')
 nums_file = [int(re.match(r'\d+', filename)[0]) for filename in cpp_files]
