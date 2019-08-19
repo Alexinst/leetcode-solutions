@@ -110,7 +110,7 @@ Here is the table of links:
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
 | 0222  | count complete tree nodes                                                 | - | [here](./Java/0222_count_complete_tree_nodes.java) |
 | 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
-| 0226  | invert binary tree                                                        | - | [here](./Java/0226_convert_binary_tree.java) |
+| 0226  | invert binary tree                                                        | - | [here](./Java/0226_invert_binary_tree.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_a_linked_list.java) |
@@ -118,7 +118,7 @@ Here is the table of links:
 | 0257  | binary tree paths                                                         | - | [here](./Java/0257_binary_tree_paths.java) |
 | 0274  | H index                                                                   | - | [here](./Java/0274_h_index.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
-| 0287  | find the duplicate number                                                 | [here](./C\&C++/0287_find_the_duplicate_number.cpp) | - |
+| 0287  | find the duplicate number                                                 | - | [here](./Java/0287_find_the_duplicate_number.java)|
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
 | 0303  | range sum query immutable                                                 | - | [here](./Java/0303_range_sum_query_immutable.java) |
 | 0326  | power of three                                                            | - | [here](./Java/0326_power_of_three.java) |
@@ -167,7 +167,7 @@ Here is the table of links:
 | 0687  | longest univalue path                                                     | - | [here](./Java/0687_longest_univalue_path.java) |
 | 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
-| 0701  | insert in a binary search tree                                            | - | [here](./Java/0701_insert_in_a_binary_search_tree.java) |
+| 0701  | insert into a binary search tree                                            | - | [here](./Java/0701_insert_into_a_binary_search_tree.java) |
 | 0704  | binary search                                                             | [here](./C\&C++/0704_binary_search.cpp) | - |
 | 0705  | design a hashset                                                          | [here](./C\&C++/0705_design_hashset.cpp) | - |
 | 0706  | design a hashmap                                                          | [here](./C\&C++/0706_design_hashmap.cpp) | - |
@@ -187,7 +187,7 @@ Here is the table of links:
 | 0872  | leaf similar trees                                                        | - | [here](./Java/0872_leaf_similar_trees.java) |
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |
 | 0876  | middle of the linked list                                                 | - | [here](./Java/0876_middle_of_the_linked_list.java) |
-| 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people.java) |
+| 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people~.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0933  | number of recent calls                                                    | - | [here](./Java/0933_number_of_recent_calls.java) |
 | 0938  | range sum of bst                                                          | - | [here](./Java/0938_range_sum_of_bst.java) |
