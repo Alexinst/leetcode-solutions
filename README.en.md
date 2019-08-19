@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (183/1126)
+## Links (192/1150)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -65,14 +65,20 @@ Here is the table of links:
 | 0100  | same tree                                                                 | - | [here](./Java/0100_same_tree.java) |
 | 0101  | symmetric tree                                                            | - | [here](./Java/0101_symmetric_tree.java) |
 | 0102  | level order traversal of a binary tree                                    | - | [here](./Java/0102_binary_tree_level_order_traversal.java) |
+| 0103  | binary tree zigzag level order traversal                                  | - | [here](./Java/0103_binary_tree_zigzag_level_order_traversal.java) |
 | 0104  | maximum depth of a binary tree                                            | - | [here](./Java/0104_maximum_depth_of_binary_tree.java) |
 | 0107  | binary tree level order traversal II                                      | - | [here](./Java/0107_binary_tree_level_order_traversal_II.java) |
-| 0108  | convert sorted array to binary search tree                                  | - | [here](./Java/0108_convert_sorted_array_to_binary_search_tree.java) |
+| 0108  | convert sorted array to binary search tree                                | - | [here](./Java/0108_convert_sorted_array_to_binary_search_tree.java) |
+| 0110  | balanced binary tree                                                      | - | [here](./Java/0110_balanced_binary_tree.java) |
 | 0111  | minimum depth of binary tree                                              | - | [here](./Java/0111_minimum_depth_of_binary_tree.java) |
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
+| 0114  | flatten binary tree to linked list                                        | - | [here](./Java/0114_flatten_binary_tree_to_linked_list.java) |
+| 0116  | populating next right pointers in each node                               | - | [here](./Java/0116_populating_next_right_pointers_in_each_node.java) |
+| 0117  | populating next right pointers in each node II                            | - | [here](./Java/0117_populating_next_right_pointers_in_each_node_II.java) |
 | 0118  | pascal's triangle                                                         | [here](./C\&C++/0118_pascals_triangle.cpp) | - |
 | 0121  | the best to buy and sell stock                                            | - | [here](./Java/0121_best_time_to_buy_and_sell_stock.java) |
-| 0122  | the best to buy and sell stock II                                         | - | [here](./Java/0121_best_time_to_buy_and_sell_stock_II.java) |
+| 0122  | the best to buy and sell stock II                                         | - | [here](./Java/0122_best_time_to_buy_and_sell_stock_II.java) |
+| 0129  | sum root to leaf numbers                                                  | - | [here](./Java/0129_sum_root_to_leaf_numbers.java) |
 | 0136  | single number                                                             | [here](./C\&C++/0136_single_number.cpp) | - |
 | 0141  | linked list cycle                                                         | [here](./C\&C++/0141_linked_list_cycle.cpp) | - |
 | 0142  | linked list cycle II                                                      | [here](./C\&C++/0142_linked_list_cycle_II.cpp) | - |
@@ -92,6 +98,7 @@ Here is the table of links:
 | 0179  | largest number                                                            | - | [here](./Java/0179_largest_number.java) |
 | 0189  | rotate array                                                              | - | [here](./Java/0189_rotate_array.java) |
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
+| 0199  | binary tree right side view                                               | - | [here](./Java/0199_binary_tree_right_side_view.java) |
 | 0202  | happy number                                                              | [here](./C\&C++/0202_happy_number.cpp) | - |
 | 0203  | remove linked list elements                                               | - | [here](./Java/0203_remove_linked_list_elements.java) |
 | 0205  | isomorphic strings                                                        | [here](./C\&C++/0205_isomorphic_strings.cpp) | - |
@@ -101,6 +108,7 @@ Here is the table of links:
 | 0217  | contains duplicate                                                        | [here](./C\&C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C\&C++/0219_contains_duplicate_II.cpp) | - |
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
+| 0222  | count complete tree nodes                                                 | - | [here](./Java/0222_count_complete_tree_nodes.java) |
 | 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
 | 0226  | invert binary tree                                                        | - | [here](./Java/0226_convert_binary_tree.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
@@ -132,6 +140,7 @@ Here is the table of links:
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
 | 0498  | diagonal traverse                                                         | [here](./C\&C++/0498_diagonal_traverse.cpp) | - |
+| 0501  | find mode in binary search tree                                           | - | [here](./Java/0501_find_mode_in_binary_search_tree.java) |
 | 0509  | fibonacci number                                                          | - | [here](./Java/0509_fibonacci_number.java) |
 | 0524  | longest word in dictionary throught deleting                              | - | [here](./Java/0524_longest_word_in_dictionary_through_deleting.java) |
 | 0530  | minimum absolute difference in bst                                        | - | [here](./Java/0530_minimum_absolute_difference_in_bst.java) |

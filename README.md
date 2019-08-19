@@ -63,14 +63,20 @@
 | 0101 | 对称二叉树                                 |                              -                               |           [here](./Java/0101_symmetric_tree.java)            |
 | 0100 | 相同的树                                   |                              -                               |              [here](./Java/0100_same_tree.java)              |
 | 0102 | 二叉树的层次遍历                           |                              -                               |  [here](./Java/0102_binary_tree_level_order_traversal.java)  |
+| 0103 | 二叉树的锯齿形层次遍历                     |                              -                               | [here](./Java/0103_binary_tree_zigzag_level_order_traversal.java) |
 | 0104 | 二叉树的最大深度                           |                              -                               |    [here](./Java/0104_maximum_depth_of_binary_tree.java)     |
 | 0107 | 二叉树的层次遍历 II                        |                              -                               | [here](./Java/0107_binary_tree_level_order_traversal_II.java) |
 | 0108 | 将有序数组转换为二叉搜索树                 |                              -                               | [here](./Java/0108_convert_sorted_array_to_binary_search_tree.java) |
+| 0110 | 平衡二叉树                                 |                              -                               |        [here](./Java/0110_balanced_binary_tree.java)         |
 | 0111 | 二叉树的最小深度                           |                              -                               |    [here](./Java/0111_minimum_depth_of_binary_tree.java)     |
 | 0112 | 路径总和                                   |                              -                               |              [here](./Java/0112_path_sum.java)               |
+| 0114 | 二叉树展开为链表                           |                              -                               | [here](./Java/0114_flatten_binary_tree_to_linked_list.java)  |
+| 0116 | 填充每个节点的下一个右侧节点指针           |                              -                               | [here](./Java/0116_populating_next_right_pointers_in_each_node.java) |
+| 0117 | 填充每个节点的下一个右侧节点指针 II        |                              -                               | [here](./Java/0117_populating_next_right_pointers_in_each_node_II.java) |
 | 0118 | 杨辉三角                                   |          [here](./C\&C++/0118_pascals_triangle.cpp)          |                              -                               |
 | 0121 | 买卖股票的最佳时机                         |                              -                               |   [here](./Java/0121_best_time_to_buy_and_sell_stock.java)   |
 | 0122 | 买卖股票的最佳时机 II                      |                              -                               | [here](./Java/0121_best_time_to_buy_and_sell_stock_II.java)  |
+| 0129 | 求根到叶子节点数字之和                     |                              -                               |      [here](./Java/0129_sum_root_to_leaf_numbers.java)       |
 | 0136 | 只出现一次的数字                           |           [here](./C\&C++/0136_single_number.cpp)            |                              -                               |
 | 0141 | 环形链表                                   |         [here](./C\&C++/0141_linked_list_cycle.cpp)          |                              -                               |
 | 0142 | 环形链表 II                                |        [here](./C\&C++/0142_linked_list_cycle_II.cpp)        |                              -                               |
@@ -90,6 +96,7 @@
 | 0179 | 最大数                                     |                              -                               |           [here](./Java/0179_largest_number.java)            |
 | 0189 | 旋转数组                                   |                              -                               |            [here](./Java/0189_rotate_array.java)             |
 | 0198 | 打家劫舍                                   |                              -                               |            [here](./Java/0198_house_robber.java)             |
+| 0199 | 二叉树的右视图                             |                              -                               |     [here](./Java/0199_binary_tree_right_side_view.java)     |
 | 0202 | 快乐数                                     |            [here](./C\&C++/0202_happy_number.cpp)            |                              -                               |
 | 0203 | 移除链表元素                               |                              -                               |     [here](./Java/0203_remove_linked_list_elements.java)     |
 | 0205 | 同构字符串                                 |         [here](./C\&C++/0205_isomorphic_strings.cpp)         |                              -                               |
@@ -99,6 +106,7 @@
 | 0217 | 存在重复元素                               |         [here](./C\&C++/0217_contains_duplicate.cpp)         |                              -                               |
 | 0219 | 存在重复元素 II                            |       [here](./C\&C++/0219_contains_duplicate_II.cpp)        |                              -                               |
 | 0220 | 存在重复元素 III                           |                              -                               |       [here](./Java/0220_contains_duplicate_III.java)        |
+| 0222 | 完全二叉树的节点个数                       |                              -                               |      [here](./Java/0222_count_complete_tree_nodes.java)      |
 | 0225 | 用队列实现栈                               |                              -                               |    [here](./Java/0225_implement_stack_using_queues.java)     |
 | 0226 | 翻转二叉树                                 |                              -                               |         [here](./Java/0226_convert_binary_tree.java)         |
 | 0232 | 用栈实现队列                               |                              -                               |    [here](./Java/0232_implement_queue_using_stacks.java)     |
@@ -130,6 +138,7 @@
 | 0450 | 删除二叉搜索树的节点                       |                              -                               |        [here](./Java/0450_delete_node_in_a_bst~.java)        |
 | 0455 | 分发饼干                                   |                              -                               |           [here](./Java/0455_assign_cookies.java)            |
 | 0498 | 对角线遍历                                 |         [here](./C\&C++/0498_diagonal_traverse.cpp)          |                              -                               |
+| 0501 | 二叉搜索树中的众数                         |                              -                               |   [here](./Java/0501_find_mode_in_binary_search_tree.java)   |
 | 0509 | 斐波纳契数                                 |                              -                               |          [here](./Java/0509_fibonacci_number.java)           |
 | 0524 | 通过删除字母匹配到字典里最长单词           |                              -                               | [here](./Java/0524_longest_word_in_dictionary_through_deleting.java) |
 | 0530 | 二叉搜索树的最小绝对差                     |                              -                               | [here](./Java/0530_minimum_absolute_difference_in_bst.java)  |
