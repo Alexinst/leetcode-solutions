@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (192/1150)
+## Links (200/1150)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -72,6 +72,7 @@ Here is the table of links:
 | 0110  | balanced binary tree                                                      | - | [here](./Java/0110_balanced_binary_tree.java) |
 | 0111  | minimum depth of binary tree                                              | - | [here](./Java/0111_minimum_depth_of_binary_tree.java) |
 | 0112  | path sum                                                                  | - | [here](./Java/0112_path_sum.java) |
+| 0113  | path sum II                                                               | - | [here](./Java/0113_path_sum_II.java) |
 | 0114  | flatten binary tree to linked list                                        | - | [here](./Java/0114_flatten_binary_tree_to_linked_list.java) |
 | 0116  | populating next right pointers in each node                               | - | [here](./Java/0116_populating_next_right_pointers_in_each_node.java) |
 | 0117  | populating next right pointers in each node II                            | - | [here](./Java/0117_populating_next_right_pointers_in_each_node_II.java) |
@@ -97,6 +98,7 @@ Here is the table of links:
 | 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
 | 0179  | largest number                                                            | - | [here](./Java/0179_largest_number.java) |
 | 0189  | rotate array                                                              | - | [here](./Java/0189_rotate_array.java) |
+| 0191  | number of 1 bits                                                          | - | [here](./Java/0191_number_of_1_bits.java) |
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
 | 0199  | binary tree right side view                                               | - | [here](./Java/0199_binary_tree_right_side_view.java) |
 | 0202  | happy number                                                              | [here](./C++/0202_happy_number.cpp) | - |
@@ -111,6 +113,7 @@ Here is the table of links:
 | 0222  | count complete tree nodes                                                 | - | [here](./Java/0222_count_complete_tree_nodes.java) |
 | 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
 | 0226  | invert binary tree                                                        | - | [here](./Java/0226_invert_binary_tree.java) |
+| 0231  | power of two                                                              | - | [here](./Java/0231_power_of_two.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_in_a_linked_list.java) |
@@ -142,6 +145,7 @@ Here is the table of links:
 | 0498  | diagonal traverse                                                         | [here](./C++/0498_diagonal_traverse.cpp) | - |
 | 0501  | find mode in binary search tree                                           | - | [here](./Java/0501_find_mode_in_binary_search_tree.java) |
 | 0509  | fibonacci number                                                          | - | [here](./Java/0509_fibonacci_number.java) |
+| 0513  | find bottom left tree value                                               | - | [here](./Java/0513_find_bottom_left_tree_value.java) |
 | 0524  | longest word in dictionary throught deleting                              | - | [here](./Java/0524_longest_word_in_dictionary_through_deleting.java) |
 | 0530  | minimum absolute difference in bst                                        | - | [here](./Java/0530_minimum_absolute_difference_in_bst.java) |
 | 0538  | convert bst to greater tree                                               | - | [here](./Java/0538_convert_bst_to_greater_tree.java) |
@@ -159,6 +163,7 @@ Here is the table of links:
 | 0637  | average of levels in binary tree                                          | - | [here](./Java/0637_average_of_levels_in_binary_tree.java) |
 | 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
+| 0653  | two sum IV - input is a bst                                               | - | [here](./Java/0653_two_sum_IV_input_is_a_bst.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0669  | trim a binary search tree                                                 | - | [here](./Java/0669_trim_a_binary_search_tree.java) |
 | 0671  | second minimum node in a binary tree                                      | - | [here](./Java/0671_second_minimum_node_in_a_binary_tree.java) |
@@ -188,6 +193,7 @@ Here is the table of links:
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |
 | 0876  | middle of the linked list                                                 | - | [here](./Java/0876_middle_of_the_linked_list.java) |
 | 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people~.java) |
+| 0897  | increasing order search tree                                              | - | [here](./Java/0897_increasing_order_search_tree.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0933  | number of recent calls                                                    | - | [here](./Java/0933_number_of_recent_calls.java) |
 | 0938  | range sum of bst                                                          | - | [here](./Java/0938_range_sum_of_bst.java) |
@@ -200,10 +206,12 @@ Here is the table of links:
 | 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list~.java) |
 | 1021  | remove outermost parentheses                                              | - | [here](./Java/1021_remove_outermost_parentheses.java) |
 | 1022  | sum of root to leaf binary numbers                                        | - | [here](./Java/1022_sum_of_root_to_leaf_binary_numbers.java) |
+| 1026  | maximum difference between node and ancestor                              | - | [here](./Java/1026_maximum_difference_between_node_and_ancestor.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 | 1047  | remove all adjacent duplicates in string                                  | - | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
+| 1104  | path in zigzag labelled binary tree                                       | - | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |
 | 1122  | relative sort array                                                       | - | [here](./Java/1122_relative_sort_array.java) |
 

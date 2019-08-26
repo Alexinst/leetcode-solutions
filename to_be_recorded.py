@@ -38,7 +38,7 @@ def check(file):
     for num in nums_code:
         if nums_readme[num - 1] == 0:
             forgot.append(num)
-    print("%s: \t" % os.path.basename(file), len(forgot), forgot)
+    print("%s: \t" % os.path.basename(file), len(forgot), sorted(forgot))
 
 
 if __name__ == "__main__":
