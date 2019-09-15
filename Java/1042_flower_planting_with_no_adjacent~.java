@@ -128,3 +128,45 @@ class Solution2 {
     }
 }
 
+
+class Solution3 {
+    public int[] gardenNoAdj(int N, int[][] paths) {
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        for (int i = 0; i < N; i++) {
+            map.put(i, new ArrayList<Integer>());
+        }
+        for (int[] path : paths) {
+            map.get(path[0] - 1).add(path[1] - 1);
+            map.get(path[1] - 1).add(path[0] - 1);
+        }
+        
+        int[] ans = new int[N];
+        for (int i = 0; i < N; i++) {
+            List<Integer> list = map.get(i); // 与花园 i 相通的花园的列表
+            boolean[] flowerOfAdj = new boolean[5]; // 相通花园所种的花
+
+            boolean isAdjPlanted = false;  // 相通花园至少有任一已种花
+
+            for (int adj : list) {  // adj: adjacent, 相通的花园的编号
+                if (ans[adj] != 0) {
+                    isAdjPlanted = true;
+                    flowerOfAdj[ans[adj]] = true;
+                }
+            }
+
+            // 为当前花园种花
+            if (!isAdjPlanted) {
+                ans[i] = 1;
+            } else {
+                for (int j = 1; j <= 4; j++) {
+                    if (!flowerOfAdj[j]) {
+                        ans[i] = j;
+                        break;
+                    }
+                }
+            }
+        }
+
+        return ans;
+    }
+}
