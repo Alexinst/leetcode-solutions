@@ -96,3 +96,41 @@ class Solution2 {
         ((LinkedList<String>) resList).addFirst(src);
     }
 }
+
+
+class Solution3 {
+    public List<String> findItinerary(List<List<String>> tickets) {
+        // 因为逆序插入，所以用链表
+        List<String> ans = new LinkedList<>();
+        if (tickets == null || tickets.size() == 0) return ans;
+
+        Map<String, PriorityQueue<String>> graph = new HashMap<>();
+
+        for (List<String> edge : tickets) {
+            String from = edge.get(0), to = edge.get(1);
+            PriorityQueue<String> adj = graph.getOrDefault(from, new PriorityQueue<>());
+            adj.offer(to);
+            graph.put(from, adj);
+        }
+
+        // 按目的顶点排序
+        visit(graph, "JFK", ans);
+
+        return ans;
+    }
+
+    // DFS方式遍历图，当走到不能走为止，再将节点加入到答案
+    private void visit(Map<String, PriorityQueue<String>> graph, String src, List<String> ans) {
+        Stack<String> stack = new Stack<>();
+        stack.push(src);
+
+        while (!stack.isEmpty()) {
+            PriorityQueue<String> nbr;
+
+            while ((nbr = graph.get(stack.peek())) != null && !nbr.isEmpty()) {
+                stack.push(nbr.poll());
+            }
+            ans.add(0, stack.pop());
+        }
+    }
+}
