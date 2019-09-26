@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (209/1150)
+## Links (218/1150)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -40,6 +40,7 @@ Here is the table of links:
 | 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
 | 0035  | search insert position                                                    | - | [here](./Java/0035_search_insert_position.java) |
 | 0038  | count and say                                                             | - | [here](./Java/0038_count_and_say.java) |
+| 0041  | first missing positive                                                    | - | [here](./Java/0041_first_missing_positive.java) |
 | 0048  | rotate image                                                              | - | [here](./Java/0048_rotate_image.java) |
 | 0049  | group anagrams                                                            | [here](./C++/0049_group_anagrams.cpp) | - |
 | 0053  | maximum sum of the subarray                                               | - | [here](./Java/0053_maximum_subarray.java) |
@@ -85,6 +86,7 @@ Here is the table of links:
 | 0121  | the best to buy and sell stock                                            | - | [here](./Java/0121_best_time_to_buy_and_sell_stock.java) |
 | 0122  | the best to buy and sell stock II                                         | - | [here](./Java/0122_best_time_to_buy_and_sell_stock_II.java) |
 | 0129  | sum root to leaf numbers                                                  | - | [here](./Java/0129_sum_root_to_leaf_numbers.java) |
+| 0133  | clone graph                                                               | - | [here](./Java/0133_clone_graph.java) |
 | 0136  | single number                                                             | [here](./C++/0136_single_number.cpp) | - |
 | 0141  | linked list cycle                                                         | [here](./C++/0141_linked_list_cycle.cpp) | - |
 | 0142  | linked list cycle II                                                      | [here](./C++/0142_linked_list_cycle_II.cpp) | - |
@@ -112,7 +114,9 @@ Here is the table of links:
 | 0204  | count primes                                                              | - | [here](./Java/0204_count_primes.java) |
 | 0205  | isomorphic strings                                                        | [here](./C++/0205_isomorphic_strings.cpp) | - |
 | 0206  | reverse linked list                                                       | - | [here](./Java/0206_reverse_linked_list.java) |
+| 0207  | course schedule                                                           | - | [here](./Java/0207_course_schedule.java) |
 | 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
+| 0210  | course schedule II                                                        | - | [here](./Java/0210_course_schedule_II.java) |
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
 | 0217  | contains duplicate                                                        | [here](./C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C++/0219_contains_duplicate_II.cpp) | - |
@@ -131,8 +135,10 @@ Here is the table of links:
 | 0287  | find the duplicate number                                                 | - | [here](./Java/0287_find_the_duplicate_number.java)|
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
 | 0303  | range sum query immutable                                                 | - | [here](./Java/0303_range_sum_query_immutable.java) |
+| 0310  | minimum height trees                                                      | - | [here](./Java/0310_minimum_height_trees.java) |
 | 0326  | power of three                                                            | - | [here](./Java/0326_power_of_three.java) |
 | 0328  | odd even linked list                                                      | - | [here](./Java/0328_odd_even_linked_list.java) |
+| 0332  | reconstruct itinerary                                                     | - | [here](./Java/0332_reconstruct_itinerary.java) |
 | 0338  | counting bits                                                             | - | [here](./Java/0338_counting_bits.java) |
 | 0344  | reverse string                                                            | [here](./C++/0344_reverse_string.cpp) | - |
 | 0345  | reverse vowels of a string                                                | - | [here](./Java/0345_reverse_vowels_of_a_string.java) |
@@ -211,6 +217,7 @@ Here is the table of links:
 | 0965  | univalued binary tree                                                     | - | [here](./Java/0965_univalued_binary_tree.java) |
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
+| 0997  | find the town judge                                                       | - | [here](./Java/0997_find_the_town_judge.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
 | 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list~.java) |
 | 1021  | remove outermost parentheses                                              | - | [here](./Java/1021_remove_outermost_parentheses.java) |
@@ -218,6 +225,8 @@ Here is the table of links:
 | 1026  | maximum difference between node and ancestor                              | - | [here](./Java/1026_maximum_difference_between_node_and_ancestor.java) |
 | 1029  | two city scheduling                                                       | - | [here](./Java/1029_two_city_scheduling.java) |
 | 1030  | matrix cells in distance order                                            | - | [here](./Java/1030_matrix_cells_in_distance_order.java) |
+| 1042  | flower planting with no adjacent                                          | - | [here](./Java/1042_flower_planting_with_no_adjacent~.java) |
+| 1043  | partition array for maxminum sum                                          | - | [here](./Java/1043_partition_array_for_maximum_sum.java) |
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 | 1047  | remove all adjacent duplicates in string                                  | - | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
