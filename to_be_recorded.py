@@ -10,8 +10,8 @@ from config import cpp_dir, java_dir, readme_cn, readme_en, all
 
 files_cpp = os.listdir(cpp_dir)
 files_java = os.listdir(java_dir)
-nums_code = [int(re.match(r'\d+', filename)[0]) for filename in files_cpp]
-nums_code += [int(re.match(r'\d+', filename)[0]) for filename in files_java]
+nums_code = [int(re.match(r'\d+', filename)[0]) for filename in files_cpp if filename[-3:] == 'cpp']
+nums_code += [int(re.match(r'\d+', filename)[0]) for filename in files_java if filename[-4:] == 'java']
 nums_code = set(nums_code)
 print("Number of problems solved: %d\n" % len(nums_code))
 print("Problems to be recorded: ")
