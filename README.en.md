@@ -9,7 +9,7 @@ To modify: 0167 0707
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (218/1150)
+## Links (230/1150)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -26,9 +26,11 @@ Here is the table of links:
 | 0013  | roman numbers to integers                                                 | - | [here](./Java/0013_roman_to_integer.java) |
 | 0014  | the longest common prefix                                                 | - | [here](./Java/0014_longest_common_prefix.java) |
 | 0015  | three sum                                                                 | - | [here](./Java/0015_three_sum.java) |
+| 0017  | letter combinations of a phone number                                     | - | [here](./Java/0017_letter_combinations_of_a_phone_number.java) |
 | 0019	| remove the Nth node from the end of a linked list                         | [here](./C++/0019_remove_nth_node_from_end_of_ll.cpp) | - |
 | 0020	| valid parentheses                                                         | [here](./C++/0020_valid_parentheses.cpp) | - |
 | 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists~.java) |
+| 0022  | generate parentheses                                                      | - | [here](./Java/0022_generate_parentheses.java) |
 | 0024  | swap nodes in pairs                                                       | - | [here](./Java/0024_swap_nodes_in_pairs.java) |
 | 0025  | reverse nodes in k group                                                  | - | [here](./Java/0025_reverse_nodes_in_k_group.java) |
 | 0026  | remove duplicates from a sorted array                                     | - | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
@@ -40,7 +42,10 @@ Here is the table of links:
 | 0034  | find first and last position of element in sorted array                   | - | [here](./Java/0034_find_first_and_last_position_of_element_in_sorted_array.java) |
 | 0035  | search insert position                                                    | - | [here](./Java/0035_search_insert_position.java) |
 | 0038  | count and say                                                             | - | [here](./Java/0038_count_and_say.java) |
+| 0039  | combination sum                                                           | - | [here](./Java/0039_combination_sum.java) |
 | 0041  | first missing positive                                                    | - | [here](./Java/0041_first_missing_positive.java) |
+| 0046  | permutations                                                              | - | [here](./Java/0046_permutations.java) |
+| 0047  | permutations II                                                           | - | [here](./Java/0047_permutations_II.java) |
 | 0048  | rotate image                                                              | - | [here](./Java/0048_rotate_image.java) |
 | 0049  | group anagrams                                                            | [here](./C++/0049_group_anagrams.cpp) | - |
 | 0053  | maximum sum of the subarray                                               | - | [here](./Java/0053_maximum_subarray.java) |
@@ -57,12 +62,15 @@ Here is the table of links:
 | 0070  | climbing stairs                                                           | - | [here](./Java/0070_climbing_stairs.java) |
 | 0071  | simplify path                                                             | - | [here](./Java/0071_simplify_path.java) |
 | 0075  | sort colors                                                               | - | [here](./Java/0075_sort_colors.java) |
+| 0077  | combinations                                                              | - | [here](./Java/0077_combinations.java) |
+| 0078  | subsets                                                                   | - | [here](./Java/0078_subsets.java) |
 | 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
 | 0086  | partition list                                                            | - | [here](./Java/0086_partition_list.java) |
 | 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
 | 0091  | decode ways                                                               | - | [here](./Java/0091_decode_ways.java) |
 | 0092  | reverse linked list II                                                    | - | [here](./Java/0092_reverse_linked_list_II.java) |
+| 0093  | restore ip addresses                                                      | - | [here](./Java/0093_restore_ip_addresses.java) |
 | 0094  | inorder traversal of a binary tree                                        | - | [here](./Java/0094_binary_tree_inorder_traversal.java) |
 | 0098  | validate binary search tree                                               | - | [here](./Java/0098_validate_binary_search_tree.java) |
 | 0100  | same tree                                                                 | - | [here](./Java/0100_same_tree.java) |
@@ -150,6 +158,7 @@ Here is the table of links:
 | 0380  | insert delete getrandom O(1)                                              | [here](./C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
+| 0401  | binary watch                                                              | - | [here](./Java/0401_binary_watch.java) |
 | 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
 | 0437  | path sum III                                                              | - | [here](./Java/0437_path_sum_III.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
@@ -200,8 +209,11 @@ Here is the table of links:
 | 0767  | reorganize string                                                         | - | [here](./Java/0767_reorganize_string.java) |
 | 0771  | jewels and stones                                                         | [here](./C++/0771_jewels_and_stones.cpp) | - |
 | 0783  | minimum distance between bst nodes                                        | - | [here](./Java/0783_minimum_distance_between_bst_nodes.java) |
+| 0784  | letter case permutation                                                   | - | [here](./Java/0784_letter_case_permutation.java) |
 | 0814  | binary tree pruning                                                       | - | [here](./Java/0814_binary_tree_pruning.java) |
 | 0817  | linked list components                                                    | - | [here](./Java/0817_linked_list_components.java) |
+| 0841  | keys and rooms                                                            | - | [here](./Java/0841_keys_and_rooms.java) |
+| 0842  | split array into fibonacci sequence                                       | - | [here](./Java/0842_split_array_into_fibonacci_sequence.java) |
 | 0853  | car fleet                                                                 | - | [here](./Java/0853_car_fleet.java) |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
 | 0872  | leaf similar trees                                                        | - | [here](./Java/0872_leaf_similar_trees.java) |
