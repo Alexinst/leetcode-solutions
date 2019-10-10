@@ -4,12 +4,10 @@
 
 The main programming languages will be Java, while C++ is going to be suspended.
 
-To modify: 0167 0707
-
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (230/1150)
+## Links (238/1217)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -43,6 +41,7 @@ Here is the table of links:
 | 0035  | search insert position                                                    | - | [here](./Java/0035_search_insert_position.java) |
 | 0038  | count and say                                                             | - | [here](./Java/0038_count_and_say.java) |
 | 0039  | combination sum                                                           | - | [here](./Java/0039_combination_sum.java) |
+| 0040  | combination sum II                                                        | - | [here](./Java/0040_combination_sum_II.java) |
 | 0041  | first missing positive                                                    | - | [here](./Java/0041_first_missing_positive.java) |
 | 0046  | permutations                                                              | - | [here](./Java/0046_permutations.java) |
 | 0047  | permutations II                                                           | - | [here](./Java/0047_permutations_II.java) |
@@ -52,6 +51,7 @@ Here is the table of links:
 | 0055  | jump game                                                                 | - | [here](./Java/0055_jump_game.java) |
 | 0056  | merge intervals                                                           | - | [here](./Java/0056_merge_intervals.java) |
 | 0058  | the length of the last word                                               | - | [here](./Java/0058_length_of_last_word.java) |
+| 0060  | permutation sequence                                                      | - | [here](./Java/0060_permutation_sequence.java) |
 | 0061  | rotate list                                                               | - | [here](./Java/0061_rotate_list.java) |
 | 0062  | unique paths                                                              | - | [here](./Java/0062_unique_paths.java) |
 | 0063  | unique paths II                                                           | - | [here](./Java/0063_unique_paths_II.java) |
@@ -68,6 +68,7 @@ Here is the table of links:
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
 | 0086  | partition list                                                            | - | [here](./Java/0086_partition_list.java) |
 | 0088  | merge two sorted arrays                                                   | - | [here](./Java/0088_merge_sorted_arrays.java) |
+| 0089  | gray code                                                                 | - | [here](./Java/0089_gray_code.java) |
 | 0091  | decode ways                                                               | - | [here](./Java/0091_decode_ways.java) |
 | 0092  | reverse linked list II                                                    | - | [here](./Java/0092_reverse_linked_list_II.java) |
 | 0093  | restore ip addresses                                                      | - | [here](./Java/0093_restore_ip_addresses.java) |
@@ -95,6 +96,7 @@ Here is the table of links:
 | 0122  | the best to buy and sell stock II                                         | - | [here](./Java/0122_best_time_to_buy_and_sell_stock_II.java) |
 | 0129  | sum root to leaf numbers                                                  | - | [here](./Java/0129_sum_root_to_leaf_numbers.java) |
 | 0133  | clone graph                                                               | - | [here](./Java/0133_clone_graph.java) |
+| 0134  | gas station                                                               | - | [here](./Java/0134_gas_station.java) |
 | 0136  | single number                                                             | [here](./C++/0136_single_number.cpp) | - |
 | 0141  | linked list cycle                                                         | [here](./C++/0141_linked_list_cycle.cpp) | - |
 | 0142  | linked list cycle II                                                      | [here](./C++/0142_linked_list_cycle_II.cpp) | - |
@@ -157,11 +159,14 @@ Here is the table of links:
 | 0374  | guess number higher or lower                                              | [here](./C++/0374_guess_number_higher_or_lower.cpp) | - |
 | 0380  | insert delete getrandom O(1)                                              | [here](./C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C++/0387_first_unique_character_in_a_string.cpp) | - |
+| 0392  | is subsequence                                                            | - | [here](./Java/0392_is_subsequence.java) |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
 | 0401  | binary watch                                                              | - | [here](./Java/0401_binary_watch.java) |
 | 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
-| 0437  | path sum III                                                              | - | [here](./Java/0437_path_sum_III.java) |
+| 0406  | queue reconstruction by height                                            | - | [here](./Java/0406_queue_reconstruction_by_height~.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
+| 0435  | non overlapping intervals                                                 | - | [here](./Java/0435_non_overlapping_intervals.java) |
+| 0437  | path sum III                                                              | - | [here](./Java/0437_path_sum_III.java) |
 | 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
@@ -244,4 +249,7 @@ Here is the table of links:
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
 | 1104  | path in zigzag labelled binary tree                                       | - | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |
 | 1122  | relative sort array                                                       | - | [here](./Java/1122_relative_sort_array.java) |
+| 1217  | play with chips                                                           | - | [here](./Java/1217_play_with_chips.java) |
 
+
+To modify: 0167 0707

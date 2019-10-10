@@ -6,7 +6,7 @@
 
 名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (230/1150）
+## 链接 (238/1217）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -39,6 +39,7 @@
 | 0035 | 搜索插入位置                               |                              -                               |       [here](./Java/0035_search_insert_position.java)        |
 | 0038 | 报数                                       |                              -                               |            [here](./Java/0038_count_and_say.java)            |
 | 0039 | 组合总和                                   |                              -                               |           [here](./Java/0039_combination_sum.java)           |
+| 0040  | 组合总和 II                                                      | - | [here](./Java/0040_combination_sum_II.java) |
 | 0041 | 缺失的第一个正数                           |                              -                               |       [here](./Java/0041_first_missing_positive.java)        |
 | 0046 | 全排列                                     |                              -                               |            [here](./Java/0046_permutations.java)             |
 | 0047 | 全排列 II                                  |                              -                               |           [here](./Java/0047_permutations_II.java)           |
@@ -48,6 +49,7 @@
 | 0055 | 跳跃游戏                                   |                              -                               |              [here](./Java/0055_jump_game.java)              |
 | 0056 | 合并区间                                   |                              -                               |           [here](./Java/0056_merge_intervals.java)           |
 | 0058 | 最后一个单词的长度                         |                              -                               |         [here](./Java/0058_length_of_last_word.java)         |
+| 0060  | 第 k 个排列                                                      | - | [here](./Java/0060_permutation_sequence.java) |
 | 0061 | 旋转链表                                   |                              -                               |             [here](./Java/0061_rotate_list.java)             |
 | 0062 | 不同路径                                   |                              -                               |            [here](./Java/0062_unique_paths.java)             |
 | 0063 | 不同路径 II                                |                              -                               |           [here](./Java/0063_unique_paths_II.java)           |
@@ -64,6 +66,7 @@
 | 0083 | 删除排序链表中的重复元素                   |                              -                               | [here](./Java/0083_remove_duplicates_from_sorted_list.java)  |
 | 0086 | 分隔链表                                   |                              -                               |           [here](./Java/0086_partition_list.java)            |
 | 0088 | 合并两个有序数组                           |                              -                               |         [here](./Java/0088_merge_sorted_arrays.java)         |
+| 0089  | 格雷编码                                                                | - | [here](./Java/0089_gray_code.java) |
 | 0091 | 解码方法                                   |                              -                               |             [here](./Java/0091_decode_ways.java)             |
 | 0092 | 反转链表 II                                |                              -                               |       [here](./Java/0092_reverse_linked_list_II.java)        |
 | 0093 | 复原IP地址                                 |                              -                               |        [here](./Java/0093_restore_ip_addresses.java)         |
@@ -91,6 +94,7 @@
 | 0122 | 买卖股票的最佳时机 II                      |                              -                               | [here](./Java/0122_best_time_to_buy_and_sell_stock_II.java)  |
 | 0129 | 求根到叶子节点数字之和                     |                              -                               |      [here](./Java/0129_sum_root_to_leaf_numbers.java)       |
 | 0133 | 克隆图                                     |                              -                               |             [here](./Java/0133_clone_graph.java)             |
+| 0134  | 加油站                                                             | - | [here](./Java/0134_gas_station.java) |
 | 0136 | 只出现一次的数字                           |             [here](./C++/0136_single_number.cpp)             |                              -                               |
 | 0141 | 环形链表                                   |           [here](./C++/0141_linked_list_cycle.cpp)           |                              -                               |
 | 0142 | 环形链表 II                                |         [here](./C++/0142_linked_list_cycle_II.cpp)          |                              -                               |
@@ -153,10 +157,13 @@
 | 0374 | 猜数字大小                                 |     [here](./C++/0374_guess_number_higher_or_lower.cpp)      |                              -                               |
 | 0380 | 常数时间插入、删除和获取随机元素 O(1)      |      [here](./C++/0380_insert_delete_getrandom_o1.cpp)       |                              -                               |
 | 0387 | 字符串中的第一个唯一字符                   |  [here](./C++/0387_first_unique_character_in_a_string.cpp)   |                              -                               |
+| 0392  | 判断子序列                                                            | - | [here](./Java/0392_is_subsequence.java) |
 | 0394 | 字符串解码                                 |                              -                               |            [here](./Java/0394_decode_string.java)            |
 | 0401 | 二进制手表                                 |                              -                               |            [here](./Java/0401_binary_watch.java)             |
 | 0404 | 左叶子之和                                 |                              -                               |         [here](./Java/0404_sum_of_left_leaves.java)          |
+| 0406  | 根据身高重建队列                                         | - | [here](./Java/0406_queue_reconstruction_by_height~.java) |
 | 0429 | N叉树层序遍历                              |                              -                               |  [here](./Java/0429_N-ary_tree_level_order_traversal.java)   |
+| 0435  | 无重叠区间                                                | - | [here](./Java/0435_non_overlapping_intervals.java) |
 | 0437 | 路径总和 III                               |                              -                               |            [here](./Java/0437_path_sum_III.java)             |
 | 0441 | 排列硬币                                   |                              -                               |           [here](./Java/0441_arranging_coins.java)           |
 | 0445 | 两数相加 II                                |                              -                               |         [here](./Java/0445_add_two_numbers_II.java)          |
@@ -240,3 +247,4 @@
 | 1054 | 距离相等的条形码                           |                              -                               |          [here](./Java/1054_distant_barcodes.java)           |
 | 1104 | 二叉树寻路                                 |                              -                               | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |
 | 1122 | 数组的相对排序                             |                              -                               |         [here](./Java/1122_relative_sort_array.java)         |
+| 1217  | 玩筹码                                                           | - | [here](./Java/1217_play_with_chips.java) |
