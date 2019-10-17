@@ -34,30 +34,56 @@ Note:
 
 class MySolution {
     public List<Integer> partitionLabels(String S) {
-        Map<Character, Integer> map = new HashMap<>();
-        Stack<int[]> stack = new Stack<>();
-        int start = 0;
+        int[][] sections = new int[26][2];
 
-        for (int i = 0; i < S.length(); i++) {
-            char c = S.charAt(i);
-            if (!map.containsKey(c))
-                map.put(c, i);
+        char[] chars = S.toCharArray();
 
-            int firstLoc = map.get(c);
-            while (!stack.isEmpty() && stack.peek()[1] >= firstLoc) {
-                start = stack.pop()[0];
+        for (int i = 0; i < chars.length; i++) {
+            if (sections[chars[i] - 97][0]== 0)
+                sections[chars[i] - 97][0] = i + 1;
+
+            sections[chars[i] - 97][1] = i + 1;
+        }
+
+        Arrays.sort(sections, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0] - o2[0];
             }
+        });
 
-            stack.push(new int[]{start, i});
-            start = i + 1;
+        int count = 0;
+        int[] tmp = new int[2];
+        Arrays.fill(tmp, 1);
 
+        for (int i = 0; i < sections.length; ) {
+            int[] sec = sections[i];
+
+            if (sec[0] != 0) {
+                if (tmp[1] >= sections[i][0]) {
+                    tmp[0] = Math.min(tmp[0], sec[0]);
+                    tmp[1] = Math.max(tmp[1], sec[1]);
+                    i++;
+
+                } else {
+                    sections[count][0] = tmp[0];
+                    sections[count][1] = tmp[1];
+
+                    tmp[0] = tmp[1] + 1;
+                    tmp[1] = tmp[1] + 1;
+
+                    count++;
+                }
+            } else {
+                i++;
+            }
         }
 
-        LinkedList<Integer> ans = new LinkedList<>();
-        while (!stack.isEmpty()) {
-            int[] section = stack.pop();
-            ans.addFirst(section[1] - section[0] + 1);
+        List<Integer> ans = new ArrayList<>();
+        for (int i = 0; i < count; i++) {
+            ans.add(sections[i][1] - sections[i][0] + 1);
         }
+        ans.add(tmp[1] - tmp[0] + 1);
 
         return ans;
     }
@@ -91,5 +117,34 @@ class Solution1 {
 
         }
         return list;
+    }
+}
+
+class Solution2 {
+    public List<Integer> partitionLabels(String str) {
+        ArrayList<Integer> res = new ArrayList<>();
+        int[] last = new int[26];
+        char[] chars = str.toCharArray();
+
+        // 记录每个字母最后出现的位置
+        for (int i = 0; i < str.length(); i++) {
+            last[chars[i] - 'a'] = i;
+        }
+        // preIndex表示上个区间的右端点
+        // maxIndex表示当前遍历的字符最后出现位置的最大值
+        int preIndex = -1, maxIndex = 0;
+        for (int i = 0; i < chars.length; i++) {
+            int index = last[chars[i] - 'a'];
+            // 更新区间的右端点, 向右延展
+            maxIndex = Math.max(maxIndex, index);
+            // 如果当前位置i等于当前所遍历的字符最后出现位置的最大值
+            // 说明maxIndex即为区间的右端点
+            if (i == maxIndex) {
+                res.add(i - preIndex);
+                preIndex = i;
+            }
+        }
+        return res;
+
     }
 }
