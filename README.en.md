@@ -7,7 +7,7 @@ The main programming languages will be Java, while C++ is going to be suspended.
 ## Explain
 The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
 
-## Links (238/1217)
+## Links (238/1239)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -157,6 +157,7 @@ Here is the table of links:
 | 0350  | intersection of two arrays II                                             | [here](./C++/0350_intersection_of_two_arrays_II.cpp) | - |
 | 0367  | valid perfect square                                                      | - | [here](./Java/0367_valid_perfect_square.java) |
 | 0374  | guess number higher or lower                                              | [here](./C++/0374_guess_number_higher_or_lower.cpp) | - |
+| 0376  | wiggle subsequence                                                        | - | [here](./Java/0376_wiggle_subsequence.java) |
 | 0380  | insert delete getrandom O(1)                                              | [here](./C++/0380_insert_delete_getrandom_o1.cpp) | - |
 | 0387  | first unique character in a string                                        | [here](./C++/0387_first_unique_character_in_a_string.cpp) | - |
 | 0392  | is subsequence                                                            | - | [here](./Java/0392_is_subsequence.java) |
@@ -170,6 +171,7 @@ Here is the table of links:
 | 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
+| 0452  | minimum number of arrows to burst balloons                                | - | [here](./Java/0452_minimum_number_of_arrows_to_burst_balloons.java) |
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
 | 0498  | diagonal traverse                                                         | [here](./C++/0498_diagonal_traverse.cpp) | - |
 | 0501  | find mode in binary search tree                                           | - | [here](./Java/0501_find_mode_in_binary_search_tree.java) |
@@ -206,11 +208,14 @@ Here is the table of links:
 | 0705  | design a hashset                                                          | [here](./C++/0705_design_hashset.cpp) | - |
 | 0706  | design a hashmap                                                          | [here](./C++/0706_design_hashmap.cpp) | - |
 | 0707  | design a linked list                                                      | [here](./C++/0707_design_linked_list.cpp) | - |
+| 0714  | best time to buy and sell stock with transaction fee                      | - | [here](./Java/0714_best_time_to_buy_and_sell_stock_with_transaction_fee.java) |
 | 0720  | longest word in dictionary                                                | - | [here](./Java/0720_longest_word_in_dictionary.java) |
 | 0724  | find pivot index                                                          | [here](./C++/0724_find_pivot_index.cpp) | - |
+| 0738  | monotone increasing digits                                                | - | [here](./Java/0738_monotone_increasing_digits.java) |
 | 0739  | daily temperatures                                                        | [here](./C++/0739_daily_temperatures.cpp) | - |
 | 0746  | minimum cost of climbing stairs                                           | - | [here](./Java/0746_min_cost_climbing_stairs.java) |
 | 0747  | the largest number at least twice of others                               | [here](./C++/0747_largest_number_at_least_twice_of_others.cpp) | - |
+| 0763  | partition labels                                                          | - | [here](./Java/0763_partition_labels.java) |
 | 0767  | reorganize string                                                         | - | [here](./Java/0767_reorganize_string.java) |
 | 0771  | jewels and stones                                                         | [here](./C++/0771_jewels_and_stones.cpp) | - |
 | 0783  | minimum distance between bst nodes                                        | - | [here](./Java/0783_minimum_distance_between_bst_nodes.java) |
@@ -221,11 +226,14 @@ Here is the table of links:
 | 0842  | split array into fibonacci sequence                                       | - | [here](./Java/0842_split_array_into_fibonacci_sequence.java) |
 | 0853  | car fleet                                                                 | - | [here](./Java/0853_car_fleet.java) |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
+| 0861  | score after flipping matrix                                               | - | [here](./Java/0861_score_after_flipping_matrix.java) |
 | 0872  | leaf similar trees                                                        | - | [here](./Java/0872_leaf_similar_trees.java) |
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |
 | 0876  | middle of the linked list                                                 | - | [here](./Java/0876_middle_of_the_linked_list.java) |
 | 0881  | boats to save people                                                      | - | [here](./Java/0881_boats_to_save_people~.java) |
 | 0897  | increasing order search tree                                              | - | [here](./Java/0897_increasing_order_search_tree.java) |
+| 0910  | smallest range II                                                         | - | [here](./Java/0910_smallest_range_II.java) |
+| 0921  | minimum add to make parentheses valid                                     | - | [here](./Java/0921_minimum_add_to_make_parentheses_valid.java) |
 | 0922  | sort array by parity II                                                   | - | [here](./Java/0922_sort_array_by_parity_II.java) |
 | 0933  | number of recent calls                                                    | - | [here](./Java/0933_number_of_recent_calls.java) |
 | 0938  | range sum of bst                                                          | - | [here](./Java/0938_range_sum_of_bst.java) |
@@ -234,8 +242,10 @@ Here is the table of links:
 | 0965  | univalued binary tree                                                     | - | [here](./Java/0965_univalued_binary_tree.java) |
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
+| 0991  | broken calculator                                                         | - | [here](./Java/0991_broken_calculator.java) |
 | 0997  | find the town judge                                                       | - | [here](./Java/0997_find_the_town_judge.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
+| 1007  | minimum domino rotations for equal row                                    | - | [here](./Java/1007_minimum_domino_rotations_for_equal_row.java) |
 | 1019  | next greater node in linked list                                          | - | [here](./Java/1019_next_greater_node_in_linked_list~.java) |
 | 1021  | remove outermost parentheses                                              | - | [here](./Java/1021_remove_outermost_parentheses.java) |
 | 1022  | sum of root to leaf binary numbers                                        | - | [here](./Java/1022_sum_of_root_to_leaf_binary_numbers.java) |
@@ -247,9 +257,13 @@ Here is the table of links:
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 | 1047  | remove all adjacent duplicates in string                                  | - | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
+| 1090  | largest values from labels                                                | - | [here](./Java/1090_largest_values_from_labels.java) |
+| 1094  | car pooling                                                               | - | [here](./Java/1094_car_pooling.java) |
 | 1104  | path in zigzag labelled binary tree                                       | - | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |
+| 1111  | maximum nesting depth of two valid parentheses strings                    | - | [here](./Java/1111_maximum_nesting_depth_of_two_valid_parentheses_strings.java) |
 | 1122  | relative sort array                                                       | - | [here](./Java/1122_relative_sort_array.java) |
 | 1217  | play with chips                                                           | - | [here](./Java/1217_play_with_chips.java) |
+| 1221  | split a string in balanced strings                                        | - | [here](./Java/1221_split_a_string_in_balanced_strings.java) |
 
 
 To modify: 0167 0707
