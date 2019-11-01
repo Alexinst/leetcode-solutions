@@ -75,7 +75,7 @@ ON
 */
 
 
--- References1:
+-- Reference1:
 SELECT
 	p.FirstName,
 	p.LastName,
