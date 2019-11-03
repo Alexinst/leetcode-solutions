@@ -1,13 +1,13 @@
 # My solutions of LeetCode exercises
 
-[简体中文](./README.md) | English
+[算法-简体](./README.md) Algorithm-EN | [数据库](./README.sql.md)
 
-The main programming languages will be Java, while C++ is going to be suspended.
+The main programming language is Java now.
 
 ## Explain
-The classes named MySolution are that I figure out by myself, and those named Solution or Solution plus a number mean which are from others and for reference.
+The classes named `MySolution` are what I figure out by myself, and those named `Solution` or `Solution plus a number` mean they are from others and for reference.
 
-## Links (238/1239)
+## Links (260/1160)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -163,6 +163,7 @@ Here is the table of links:
 | 0392  | is subsequence                                                            | - | [here](./Java/0392_is_subsequence.java) |
 | 0394  | decode string                                                             | - | [here](./Java/0394_decode_string.java) |
 | 0401  | binary watch                                                              | - | [here](./Java/0401_binary_watch.java) |
+| 0402  | remove K digits                                                           | - | [here](./Java/0402_remove_k_digits.java) |
 | 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
 | 0406  | queue reconstruction by height                                            | - | [here](./Java/0406_queue_reconstruction_by_height~.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
@@ -190,10 +191,12 @@ Here is the table of links:
 | 0599  | minimum index sum of two lists                                            | [here](./C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
 | 0606  | construct string from binary tree                                         | - | [here](./Java/0606_construct_string_from_binary_tree.java) |
 | 0617  | merge two binary trees                                                    | - | [here](./Java/0617_merge_two_binary_trees.java) |
+| 0621  | task scheduler                                                            | - | [here](./Java/0621_task_scheduler.java) |
 | 0622  | design a circular queque                                                  | [here](./C++/0622_design_circular_queue.cpp) | [here](./Java/0622_design_circular_queue.java) |
 | 0637  | average of levels in binary tree                                          | - | [here](./Java/0637_average_of_levels_in_binary_tree.java) |
 | 0641  | design circular deque                                                     | - | [here](./Java/0641_design_circular_deque.java) |
 | 0648  | replace words                                                             | - | [here](./Java/0648_replace_words.java) |
+| 0649  | Dota2 senate                                                              | - | [here](./Java/0649_dota2_senate.java) |
 | 0653  | two sum IV - input is a bst                                               | - | [here](./Java/0653_two_sum_IV_input_is_a_bst.java) |
 | 0658  | find K colsest elements                                                   | - | [here](./Java/0658_find_K_colsest_elements.java) |
 | 0669  | trim a binary search tree                                                 | - | [here](./Java/0669_trim_a_binary_search_tree.java) |
@@ -203,7 +206,7 @@ Here is the table of links:
 | 0687  | longest univalue path                                                     | - | [here](./Java/0687_longest_univalue_path.java) |
 | 0692  | top k frequent words                                                      | - | [here](./Java/0692_top_k_frequent_words.java) |
 | 0700  | search in a binary search tree                                            | - | [here](./Java/0700_search_in_a_binary_search_tree.java) |
-| 0701  | insert into a binary search tree                                            | - | [here](./Java/0701_insert_into_a_binary_search_tree.java) |
+| 0701  | insert into a binary search tree                                          | - | [here](./Java/0701_insert_into_a_binary_search_tree.java) |
 | 0704  | binary search                                                             | [here](./C++/0704_binary_search.cpp) | - |
 | 0705  | design a hashset                                                          | [here](./C++/0705_design_hashset.cpp) | - |
 | 0706  | design a hashmap                                                          | [here](./C++/0706_design_hashmap.cpp) | - |
@@ -227,6 +230,7 @@ Here is the table of links:
 | 0853  | car fleet                                                                 | - | [here](./Java/0853_car_fleet.java) |
 | 0860  | lemonade change                                                           | - | [here](./Java/0860_lemonade_change.java) |
 | 0861  | score after flipping matrix                                               | - | [here](./Java/0861_score_after_flipping_matrix.java) |
+| 0870  | advantage shuffle                                                         | - | [here](./Java/0872_leaf_similar_trees.java) |
 | 0872  | leaf similar trees                                                        | - | [here](./Java/0872_leaf_similar_trees.java) |
 | 0874  | walking robot simulation                                                  | - | [here](./Java/0874_walking_robot_simulation.java) |
 | 0876  | middle of the linked list                                                 | - | [here](./Java/0876_middle_of_the_linked_list.java) |
@@ -239,9 +243,12 @@ Here is the table of links:
 | 0938  | range sum of bst                                                          | - | [here](./Java/0938_range_sum_of_bst.java) |
 | 0944  | delete columns to make sorted                                             | - | [here](./Java/0944_delete_columns_to_make_sorted.java) |
 | 0946  | valide stack sequences                                                    | - | [here](./Java/0946_valide_stack_sequences.java) |
+| 0948  | bag of tokens                                                             | - | [here](./Java/0948_bag_of_tokens.java) |
+| 0955  | delete columns to make sorted II                                          | - | [here](./Java/0955_delete_columns_to_make_sorted_II~.java) |
 | 0965  | univalued binary tree                                                     | - | [here](./Java/0965_univalued_binary_tree.java) |
 | 0973  | K closest points to origin                                                | - | [here](./Java/0973_K_closest_points_to_origin.java) |
 | 0976  | largest perimeter triangle                                                | - | [here](./Java/0976_largest_perimeter_triangle.java) |
+| 0984  | string without aaa or bbb                                                 | - | [here](./Java/0984_string_without_aaa_or_bbb.java) |
 | 0991  | broken calculator                                                         | - | [here](./Java/0991_broken_calculator.java) |
 | 0997  | find the town judge                                                       | - | [here](./Java/0997_find_the_town_judge.java) |
 | 1005  | maximize sum of a array after k negations                                 | - | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
@@ -257,6 +264,7 @@ Here is the table of links:
 | 1046  | last stone weight                                                         | - | [here](./Java/1046_last_stone_weight.java) |
 | 1047  | remove all adjacent duplicates in string                                  | - | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054  | distant barcodes                                                          | - | [here](./Java/1054_distant_barcodes.java) |
+| 1079  | letter tile possibilities                                                 | - | [here](./Java/1079_letter_tile_possibilities.java) |
 | 1090  | largest values from labels                                                | - | [here](./Java/1090_largest_values_from_labels.java) |
 | 1094  | car pooling                                                               | - | [here](./Java/1094_car_pooling.java) |
 | 1104  | path in zigzag labelled binary tree                                       | - | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |

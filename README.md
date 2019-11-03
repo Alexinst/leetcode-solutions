@@ -1,12 +1,12 @@
 # My solutions of LeetCode exercises
 
-简体中文 | [English](./README.en.md) 
+算法-简体 [Algorithm-EN](./README.en.md) | [数据库](./README.sql.md)
 
 ## 类名解释
 
-名为`MySolution`的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为`Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
+名为 `MySolution` 的类是我自己苦思冥想、搜肠刮肚、磕巴磕巴写出来的，而名为 `Solution`（或者带有数字）的则是灰心丧气、万念俱灰、自抱自泣下，去找的参考答案。
 
-## 链接 (252/1239）
+## 链接 (260/1160）
 
 | 序号 | 问题                                       |                             C++                              |                             Java                             |
 | :--: | :----------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -161,6 +161,7 @@
 | 0392 | 判断子序列                                 |                              -                               |           [here](./Java/0392_is_subsequence.java)            |
 | 0394 | 字符串解码                                 |                              -                               |            [here](./Java/0394_decode_string.java)            |
 | 0401 | 二进制手表                                 |                              -                               |            [here](./Java/0401_binary_watch.java)             |
+| 0402 | 移掉K位数字                                |                              -                               |           [here](./Java/0402_remove_k_digits.java)           |
 | 0404 | 左叶子之和                                 |                              -                               |         [here](./Java/0404_sum_of_left_leaves.java)          |
 | 0406 | 根据身高重建队列                           |                              -                               |   [here](./Java/0406_queue_reconstruction_by_height~.java)   |
 | 0429 | N叉树层序遍历                              |                              -                               |  [here](./Java/0429_N-ary_tree_level_order_traversal.java)   |
@@ -188,10 +189,12 @@
 | 0599 | 两个列表的最小索引总和                     |    [here](./C++/0599_minimum_index_sum_of_two_lists.cpp)     |                              -                               |
 | 0606 | 根据二叉树创建字符串                       |                              -                               |  [here](./Java/0606_construct_string_from_binary_tree.java)  |
 | 0617 | 合并二叉树                                 |                              -                               |       [here](./Java/0617_merge_two_binary_trees.java)        |
+| 0621 | 任务调度器                                 |                              -                               |           [here](./Java/0621_task_scheduler.java)            |
 | 0622 | 设计循环队列                               |         [here](./C++/0622_design_circular_queue.cpp)         |        [here](./Java/0622_design_circular_queue.java)        |
 | 0637 | 二叉树的层平均值                           |                              -                               |  [here](./Java/0637_average_of_levels_in_binary_tree.java)   |
 | 0641 | 设计循环双端队列                           |                              -                               |        [here](./Java/0641_design_circular_deque.java)        |
 | 0648 | 单词替代                                   |                              -                               |            [here](./Java/0648_replace_words.java)            |
+| 0649 | Dota2 参议院                               |                              -                               |            [here](./Java/0649_dota2_senate.java)             |
 | 0653 | 两数之和 IV - 输入 BST                     |                              -                               |      [here](./Java/0653_two_sum_IV_input_is_a_bst.java)      |
 | 0658 | 找到 K 个最接近的元素                      |                              -                               |       [here](./Java/0658_find_K_colsest_elements.java)       |
 | 0669 | 修剪二叉搜索树                             |                              -                               |      [here](./Java/0669_trim_a_binary_search_tree.java)      |
@@ -225,6 +228,7 @@
 | 0853 | 车队                                       |                              -                               |              [here](./Java/0853_car_fleet.java)              |
 | 0860 | 柠檬水找零                                 |                              -                               |           [here](./Java/0860_lemonade_change.java)           |
 | 0861 | 翻转矩阵后的得分                           |                              -                               |     [here](./Java/0861_score_after_flipping_matrix.java)     |
+| 0870 | 优势洗牌                                   |                              -                               |         [here](./Java/0872_leaf_similar_trees.java)          |
 | 0872 | 叶子相似的树                               |                              -                               |         [here](./Java/0872_leaf_similar_trees.java)          |
 | 0874 | 模拟行走机器人                             |                              -                               |      [here](./Java/0874_walking_robot_simulation.java)       |
 | 0876 | 链表的中间结点                             |                              -                               |      [here](./Java/0876_middle_of_the_linked_list.java)      |
@@ -237,9 +241,12 @@
 | 0938 | 二叉搜索树的范围和                         |                              -                               |          [here](./Java/0938_range_sum_of_bst.java)           |
 | 0944 | 删列造序                                   |                              -                               |    [here](./Java/0944_delete_columns_to_make_sorted.java)    |
 | 0946 | 验证栈序列                                 |                              -                               |       [here](./Java/0946_valide_stack_sequences.java)        |
+| 0948 | 令牌放置                                   |                              -                               |            [here](./Java/0948_bag_of_tokens.java)            |
+| 0955 | 删列造序 II                                |                              -                               |  [here](./Java/0955_delete_columns_to_make_sorted_II~.java)  |
 | 0965 | 单值二叉树                                 |                              -                               |        [here](./Java/0965_univalued_binary_tree.java)        |
 | 0973 | 最接近原点的 K 个点                        |                              -                               |     [here](./Java/0973_K_closest_points_to_origin.java)      |
 | 0976 | 三角形的最大周长                           |                              -                               |     [here](./Java/0976_largest_perimeter_triangle.java)      |
+| 0984 | 不含 AAA 或 BBB 的字符串                   |                              -                               |      [here](./Java/0984_string_without_aaa_or_bbb.java)      |
 | 0991 | 坏了的计算器                               |                              -                               |          [here](./Java/0991_broken_calculator.java)          |
 | 0997 | 找到小镇的法官                             |                              -                               |         [here](./Java/0997_find_the_town_judge.java)         |
 | 1005 | K 次取反后最大化的数组和                   |                              -                               | [here](./Java/1005_maximize_sum_of_array_after_k_negations.java) |
@@ -255,6 +262,7 @@
 | 1046 | 最后一块石头的重量                         |                              -                               |          [here](./Java/1046_last_stone_weight.java)          |
 | 1047 | 删除字符串中的所有相邻重复项               |                              -                               | [here](./Java/1047_remove_all_adjacent_duplicates_in_string.java) |
 | 1054 | 距离相等的条形码                           |                              -                               |          [here](./Java/1054_distant_barcodes.java)           |
+| 1079 | 活字印刷                                   |                              -                               |     [here](./Java/1079_letter_tile_possibilities.java)       |
 | 1090 | 受标签印象的最大值                         |                              -                               |     [here](./Java/1090_largest_values_from_labels.java)      |
 | 1094 | 拼车                                       |                              -                               |             [here](./Java/1094_car_pooling.java)             |
 | 1104 | 二叉树寻路                                 |                              -                               | [here](./Java/1104_path_in_zigzag_labelled_binary_tree.java) |
