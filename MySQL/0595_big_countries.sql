@@ -54,7 +54,7 @@ For example, according to the above table, we should output:
 */
 
 
--- Mine: 
+-- My Solution: 
 SELECT 
 	name,
 	population,

@@ -45,7 +45,7 @@ Given the Employee table, write a SQL query that finds out employees who earn mo
 */
 
 
--- Mine:
+-- My Solution:
 SELECT
 	e1.NAME AS Employee 
 FROM

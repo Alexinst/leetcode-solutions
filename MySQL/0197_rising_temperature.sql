@@ -47,8 +47,7 @@ For example, return the following Ids for the above Weather table:
 */
 
 
--- Mine:
-
+-- My Solution:
 SELECT
 	a.Id 
 FROM

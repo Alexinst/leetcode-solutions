@@ -43,7 +43,7 @@ For example, given the above Employee table, the query should return 200 as the 
 */
 
 
--- Mine: 
+-- My Solution: 
 SELECT
 	IFNULL( (SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1 ), NULL) AS SecondHighSalary;
 
