@@ -1,11 +1,11 @@
 """
 Check if any code files haven't been recorded in README
-and print their numbers out.
+and print their numbers.
 """
 
 import os
 import re
-from config import cpp_dir, java_dir, readme_cn, readme_en, all
+from config import cpp_dir, java_dir, readme_cn, readme_en, num_all
 
 
 files_cpp = os.listdir(cpp_dir)
@@ -29,7 +29,7 @@ def check(file):
                     pass
 
     nums_readme = sorted(nums_readme)
-    tmp = [0] * all
+    tmp = [0] * num_all
     for num in nums_readme:
         tmp[num - 1] = 1
     nums_readme = tmp
