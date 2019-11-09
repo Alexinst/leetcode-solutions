@@ -1,9 +1,13 @@
-num_all = 10000
+max_num = 10000
 
-cpp_dir = 'C++'
+cpp_dir = "C++"
 
-java_dir = 'Java'
+java_dir = "Java"
 
-readme_en = "README.en.md"
+mysql_dir = "MySQL"
 
-readme_cn = "README.md"
+readme_alg_en = "README.en.md"
+
+readme_alg_cn = "README.md"
+
+readme_db_cn = "README.sql.md"

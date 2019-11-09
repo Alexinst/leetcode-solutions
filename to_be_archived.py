@@ -2,7 +2,7 @@ import os
 import re
 import argparse
 from bs4 import BeautifulSoup as bs
-from config import cpp_dir, java_dir, num_all
+from config import (cpp_dir, java_dir, mysql_dir, max_num)
 
 
 def check(html_file):
@@ -15,21 +15,25 @@ def check(html_file):
         for td in tds:
             solved.append(int(td.find_next_sibling('td').text))
 
-        files_cpp = os.listdir(cpp_dir)
-        files_java = os.listdir(java_dir)
-        nums_code = [int(re.match(r'\d+', filename)[0]) for filename in files_cpp]
-        nums_code += [int(re.match(r'\d+', filename)[0]) for filename in files_java]
-        nums_code = set(nums_code)
+        cpp_files = os.listdir(cpp_dir)
+        java_files = os.listdir(java_dir)
+        mysql_files = os.listdir(mysql_dir)
 
-        tmp = [0] * num_all
-        for num in nums_code:
-            tmp[num - 1] = 1
-            nums_code = tmp
+        # The list contains the number orders of all solved and archived problems.
+        archived = [int(re.match(r'\d+', filename)[0]) for filename in cpp_files]
+        archived += [int(re.match(r'\d+', filename)[0]) for filename in java_files]
+        archived += [int(re.match(r'\d+', filename)[0] for filename in mysql_files)]
+        archived = set(archived)
+
+        tmp = [0] * max_num
+        for no in archived:
+            tmp[no - 1] = 1
+        archived = tmp
 
         forgot = []
-        for num in solved:
-            if nums_code[num - 1] == 0:
-                forgot.append(num)
+        for no in solved:
+            if archived[no - 1] == 0:
+                forgot.append(no)
 
         print('Problems solved but not archived: ')
         print(forgot)
