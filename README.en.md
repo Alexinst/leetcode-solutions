@@ -7,7 +7,7 @@ The main programming language is Java now.
 ## Explain
 The classes named `MySolution` are what I figure out by myself, and those named `Solution` or `Solution plus a number` mean they are from others and for reference.
 
-## Links (260/1160)
+## Links (284/1189)
 Here is the table of links:
 
 | Order | Problems                                                                  | C++ | Java |
@@ -29,6 +29,7 @@ Here is the table of links:
 | 0020	| valid parentheses                                                         | [here](./C++/0020_valid_parentheses.cpp) | - |
 | 0021  | merge two sorted linked lists                                             | - | [here](./Java/0021_merge_two_sorted_lists~.java) |
 | 0022  | generate parentheses                                                      | - | [here](./Java/0022_generate_parentheses.java) |
+| 0023  | merge K sorted lists                                                      | - | [here](./Java/0023_merge_k_sorted_lists.java) |
 | 0024  | swap nodes in pairs                                                       | - | [here](./Java/0024_swap_nodes_in_pairs.java) |
 | 0025  | reverse nodes in k group                                                  | - | [here](./Java/0025_reverse_nodes_in_k_group.java) |
 | 0026  | remove duplicates from a sorted array                                     | - | [here](./Java/0026_remove_duplicates_from_sorted_array.java) |
@@ -64,6 +65,7 @@ Here is the table of links:
 | 0075  | sort colors                                                               | - | [here](./Java/0075_sort_colors.java) |
 | 0077  | combinations                                                              | - | [here](./Java/0077_combinations.java) |
 | 0078  | subsets                                                                   | - | [here](./Java/0078_subsets.java) |
+| 0079  | word search                                                               | - | [here](./Java/0079_word_search.java) |
 | 0082  | remove duplicates from sorted list II                                     | - | [here](./Java/0082_remove_duplicates_from_sorted_list_II.java) |
 | 0083  | remove duplicates from sorted list                                        | - | [here](./Java/0083_remove_duplicates_from_sorted_list.java) |
 | 0086  | partition list                                                            | - | [here](./Java/0086_partition_list.java) |
@@ -98,11 +100,13 @@ Here is the table of links:
 | 0133  | clone graph                                                               | - | [here](./Java/0133_clone_graph.java) |
 | 0134  | gas station                                                               | - | [here](./Java/0134_gas_station.java) |
 | 0136  | single number                                                             | [here](./C++/0136_single_number.cpp) | - |
+| 0139  | word break                                                                | - | [here](./Java/0139_word_break.java) |
 | 0141  | linked list cycle                                                         | [here](./C++/0141_linked_list_cycle.cpp) | - |
 | 0142  | linked list cycle II                                                      | [here](./C++/0142_linked_list_cycle_II.cpp) | - |
 | 0143  | reorder list                                                              | - | [here](./Java/0143_reorder_list.java) |
 | 0144  | preorder traversal of a binary tree                                       | - | [here](./Java/0144_binary_tree_preorder_traversal.java) |
 | 0145  | postorder traversal of a binary tree                                      | - | [here](./Java/0145_binary_tree_postorder_traversal.java) |
+| 0146  | LRU cache                                                                 | - | [here](./Java/0146_lru_cache.java) |
 | 0147  | insertion sort list                                                       | - | [here](./Java/0147_insertion_sort_list.java) |
 | 0148  | sort list ( nlog(n) )                                                       | - | [here](./Java/0148_sort_list.java) |
 | 0150  | evaluate reverse polish notation                                          | [here](./C++/0150_evaluate_reverse_polish_notation.cpp) | - |
@@ -112,12 +116,14 @@ Here is the table of links:
 | 0160  | intersion of two linked lists	                                            | [here](./C++/0160_intersection_of_two_linked_lists.cpp) | - |
 | 0162  | find the peak element                                                     | - | [here](./Java/0162_find_peak_element.java) |
 | 0167  | two sum II - input sorted array                                           | [here](./C++/0167_two_sum_II_input_sorted_array.cpp) | - |
+| 0169  | majority element                                                          | - | [here](./Java/0169_majority_element.java) |
 | 0173  | binary search tree iterator                                               | - | [here](./Java/0173_binary_search_tree_iterator.java) |
 | 0179  | largest number                                                            | - | [here](./Java/0179_largest_number.java) |
 | 0189  | rotate array                                                              | - | [here](./Java/0189_rotate_array.java) |
 | 0191  | number of 1 bits                                                          | - | [here](./Java/0191_number_of_1_bits.java) |
 | 0198  | house robber                                                              | - | [here](./Java/0198_house_robber.java) |
 | 0199  | binary tree right side view                                               | - | [here](./Java/0199_binary_tree_right_side_view.java) |
+| 0200  | number of islands                                                         | - | [here](./Java/0200_number_of_islands.java) |
 | 0201  | bitwise and of numbers range                                              | - | [here](./Java/0201_bitwise_and_of_numbers_range.java) |
 | 0202  | happy number                                                              | [here](./C++/0202_happy_number.cpp) | - |
 | 0203  | remove linked list elements                                               | - | [here](./Java/0203_remove_linked_list_elements.java) |
@@ -128,27 +134,38 @@ Here is the table of links:
 | 0208  | implement trie                                                            | - | [here](./Java/0208_implement_trie.java) |
 | 0210  | course schedule II                                                        | - | [here](./Java/0210_course_schedule_II.java) |
 | 0211  | add and search words                                                      | - | [here](./Java/0211_add_and_search_words.java) |
+| 0215  | K th largest element in an array                                          | - | [here](./Java/0215_kth_largest_element_in_an_array.java) |
 | 0217  | contains duplicate                                                        | [here](./C++/0217_contains_duplicate.cpp) | - |
 | 0219  | contains duplicate II                                                     | [here](./C++/0219_contains_duplicate_II.cpp) | - |
 | 0220  | contains duplicate III                                                    | - | [here](./Java/0220_contains_duplicate_III.java) |
+| 0221  | maximal square                                                            | - | [here](./Java/0221_maximal_square.java) |
 | 0222  | count complete tree nodes                                                 | - | [here](./Java/0222_count_complete_tree_nodes.java) |
 | 0225  | implement stack using queues                                              | - | [here](./Java/0225_implement_stack_using_queues.java) |
 | 0226  | invert binary tree                                                        | - | [here](./Java/0226_invert_binary_tree.java) |
 | 0231  | power of two                                                              | - | [here](./Java/0231_power_of_two.java) |
 | 0232  | implement queue using stacks                                              | - | [here](./Java/0232_implement_queue_using_stacks.java) |
 | 0234  | palindrome linked list                                                    | - | [here](./Java/0234_palindrome_linked_list.java) |
+| 0235  | lowest common ancestor of a binary search tree                            | - | [here](./Java/0235_lowest_common_ancestor_of_a_binary_search_tree.java) |
+| 0236  | lowest common ancestor of a binary tree                                   | - | [here](./Java/0236_lowest_common_ancestor_of_a_binary_tree.java) |
 | 0237  | delete node in a linked list                                              | - | [here](./Java/0237_delete_node_in_a_linked_list.java) |
+| 0238  | product of array except self                                              | - | [here](./Java/0238_product_of_array_except_self.java) |
+| 0240  | search a 2D matrix II                                                     | - | [here](./Java/0240_search_a_2d_matrix_II.java) |
 | 0242  | valid anagram                                                             | - | [here](./Java/0242_valid_anagram.java) |
 | 0257  | binary tree paths                                                         | - | [here](./Java/0257_binary_tree_paths.java) |
 | 0274  | H index                                                                   | - | [here](./Java/0274_h_index.java) |
 | 0278  | first bad version                                                         | - | [here](./Java/0278_first_bad_version.java) |
-| 0287  | find the duplicate number                                                 | - | [here](./Java/0287_find_the_duplicate_number.java)|
+| 0279  | perfect squares                                                           | - | [here](./Java/0279_perfect_squares.java) |
+| 0283  | move zeroes                                                               | - | [here](./Java/0283_move_zeroes.java) |
+| 0287  | find the duplicate number                                                 | - | [here](./Java/0287_find_the_duplicate_number.java) |
 | 0300  | the longest increasing subsequence                                        | - | [here](./Java/0300_longest_increasing_subsequence.java) |
 | 0303  | range sum query immutable                                                 | - | [here](./Java/0303_range_sum_query_immutable.java) |
+| 0309  | best time to buy and sell stock with cooldown                             | - | [here](./Java/0309_best_time_to_buy_and_sell_stock_with_cooldown.java) |
 | 0310  | minimum height trees                                                      | - | [here](./Java/0310_minimum_height_trees.java) |
+| 0322  | coin change                                                               | - | [here](./Java/0322_coin_change.java) |
 | 0326  | power of three                                                            | - | [here](./Java/0326_power_of_three.java) |
 | 0328  | odd even linked list                                                      | - | [here](./Java/0328_odd_even_linked_list.java) |
 | 0332  | reconstruct itinerary                                                     | - | [here](./Java/0332_reconstruct_itinerary.java) |
+| 0337  | house robber III                                                          | - | [here](./Java/0337_house_robber_III~.java) |
 | 0338  | counting bits                                                             | - | [here](./Java/0338_counting_bits.java) |
 | 0344  | reverse string                                                            | [here](./C++/0344_reverse_string.cpp) | - |
 | 0345  | reverse vowels of a string                                                | - | [here](./Java/0345_reverse_vowels_of_a_string.java) |
@@ -166,14 +183,19 @@ Here is the table of links:
 | 0402  | remove K digits                                                           | - | [here](./Java/0402_remove_k_digits.java) |
 | 0404  | sum of left leaves                                                        | - | [here](./Java/0404_sum_of_left_leaves.java) |
 | 0406  | queue reconstruction by height                                            | - | [here](./Java/0406_queue_reconstruction_by_height~.java) |
+| 0416  | partition equal subset sum                                                | - | [here](./Java/0416_partition_equal_subset_sum.java) |
 | 0429  | level order traversal of a N-ary tree                                     | - | [here](./Java/0429_N-ary_tree_level_order_traversal.java) |
 | 0435  | non overlapping intervals                                                 | - | [here](./Java/0435_non_overlapping_intervals.java) |
 | 0437  | path sum III                                                              | - | [here](./Java/0437_path_sum_III.java) |
+| 0438  | find all anagrams in a string                                             | - | [here](./Java/0438_find_all_anagrams_in_a_string.java) |
 | 0441  | arranging coins                                                           | - | [here](./Java/0441_arranging_coins.java) |
 | 0445  | add two numbers II                                                        | - | [here](./Java/0445_add_two_numbers_II.java) |
+| 0448  | find all numbers disappeared in an array                                  | - | [here](./Java/0448_find_all_numbers_disappeared_in_an_array.java) |
 | 0450  | delete node in a binary search tree                                       | - | [here](./Java/0450_delete_node_in_a_bst~.java) |
 | 0452  | minimum number of arrows to burst balloons                                | - | [here](./Java/0452_minimum_number_of_arrows_to_burst_balloons.java) |
 | 0455  | assign cookies                                                            | - | [here](./Java/0455_assign_cookies.java) |
+| 0461  | hamming distance                                                          | - | [here](./Java/0461_hamming_distance.java) |
+| 0494  | target sum                                                                | - | [here](./Java/0494_target_sum.java) |
 | 0498  | diagonal traverse                                                         | [here](./C++/0498_diagonal_traverse.cpp) | - |
 | 0501  | find mode in binary search tree                                           | - | [here](./Java/0501_find_mode_in_binary_search_tree.java) |
 | 0509  | fibonacci number                                                          | - | [here](./Java/0509_fibonacci_number.java) |
@@ -183,9 +205,11 @@ Here is the table of links:
 | 0538  | convert bst to greater tree                                               | - | [here](./Java/0538_convert_bst_to_greater_tree.java) |
 | 0543  | diameter of binary tree                                                   | - | [here](./Java/0543_diameter_of_binary_tree.java) |
 | 0559  | maximum depth of N ary tree                                               | - | [here](./Java/0559_maximum_depth_of_n_ary_tree.java) |
+| 0560  | subarray sum equals K                                                     | - | [here](./Java/0560_subarray_sum_equals_k.java) |
 | 0561  | array partition I                                                         | [here](./C++/0561_array_partition_I.cpp) | - |
 | 0563  | binary tree tilt                                                          | - | [here](./Java/0563_binary_tree_tilt.java) |
 | 0572  | subtree of another tree                                                   | - | [here](./Java/0572_subtree_of_another_tree.java) |
+| 0581  | shortest unsorted continuous subarray                                     | - | [here](./Java/0581_shortest_unsorted_continuous_subarray.java) |
 | 0589  | N-ary tree preorder traversal                                             | - | [here](./Java/0589_N-ary_tree_preorder_traversal.java) |
 | 0590  | N-ary tree postorder traversal                                            | - | [here](./Java/0590_N-ary_tree_postorder_traversal.java) |
 | 0599  | minimum index sum of two lists                                            | [here](./C++/0599_minimum_index_sum_of_two_lists.cpp) | - |
